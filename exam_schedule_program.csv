@@ -1,0 +1,45 @@
+----------MONDAY-------------
+9:0 - 10:15     CENG201 -  Rooms:  A107; A108; 
+9:0 - 9:40     CENG300 -  Rooms:  A109; A110; 
+9:0 - 9:30     CENG403 -  Rooms:  A111; A112; A113; A114; A115; 
+9:0 - 9:45     ENG101 -  Rooms:  A116; A117; 
+11:0 - 12:0     CENG101 -  Rooms:  A107; A108; A109; 
+11:0 - 11:45     CENG209 -  Rooms:  A110; A111; 
+11:0 - 11:30     CENG301 -  Rooms:  A112; 
+11:0 - 12:0     CENG405 -  Rooms:  A113; A114; A115; A116; A117; 
+13:0 - 14:0     CENG113 -  Rooms:  A107; A108; A109; 
+13:0 - 13:50     CENG207 -  Rooms:  A110; A111; 
+13:0 - 14:15     CENG303 -  Rooms:  A112; 
+13:0 - 14:15     CENG408 -  Rooms:  A113; A114; A115; A116; A117; 
+15:0 - 16:30     CENG307 -  Rooms:  A107; 
+15:0 - 15:45     CENG407 -  Rooms:  A108; A109; A110; A111; A112; A113; 
+15:0 - 16:40     CHEM101 -  Rooms:  A114; A115; A116; 
+15:0 - 15:30     ENGR201 -  Rooms:  A117; A118; 
+----------TUESDAY-------------
+9:0 - 10:30     CENG203 -  Rooms:  A101; A102; 
+9:0 - 10:0     CENG305 -  Rooms:  A103; 
+9:0 - 11:20     CENG400 -  Rooms:  A104; A105; A106; A107; A108; 
+9:0 - 11:0     MATH101 -  Rooms:  A109; A110; A111; 
+12:0 - 13:20     CENG401 -  Rooms:  A101; A102; A103; A104; A105; 
+12:0 - 12:45     CENGXXX -  Rooms:  A106; 
+12:0 - 14:0     ENGR260 -  Rooms:  A107; A108; 
+12:0 - 14:15     PHYS101 -  Rooms:  A109; A110; A111; 
+15:0 - 17:15     PHYS103 -  Rooms:  A101; A102; A103; 
+----------WEDNESDAY-------------
+9:0 - 9:40     TDL101 -  Rooms:  A101; A102; A103; 
+10:0 - 10:30     TİT101 -  Rooms:  A101; A102; A103; 
+----------THURSDAY-------------
+----------FRIDAY-------------
+----------SATURDAY-------------
+----------SUNDAY-------------
+
+
+-------bookedHours--------
+-------Day----------,----------hour----------,----------rooms-----------------
+monday,from 9 : 30 to 18 : 30,A101
+monday,from 9 : 0 to 18 : 0,A102
+monday,from 9 : 0 to 18 : 0,A103
+monday,from 9 : 0 to 18 : 0,A104
+monday,from 9 : 30 to 18 : 30,A105
+monday,from 9 : 30 to 18 : 30,A106
+

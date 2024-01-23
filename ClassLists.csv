@@ -1,0 +1,2146 @@
+Student ID,Professor Name,Course ID,ExamDuration in mins
+1000,Berat Yildizer,ENG101,45
+1000,Mahmut Yaldiz,MATH101,120
+1000,Sinan Akdal,CENG113,60
+1000,Irem Cetin,CHEM101,100
+1000,Sems Acar,CENG101,60
+1000,Duygu Yildirim,PHYS101,135
+1000,Anil Sever,PHYS103,135
+1000,Ramazan Kurnazaslan,TİT101,30
+1000,Ahmet Berk,TDL101,40
+1001,Berat Yildizer,ENG101,45
+1001,Mahmut Yaldiz,MATH101,120
+1001,Sinan Akdal,CENG113,60
+1001,Irem Cetin,CHEM101,100
+1001,Sems Acar,CENG101,60
+1001,Duygu Yildirim,PHYS101,135
+1001,Anil Sever,PHYS103,135
+1001,Ramazan Kurnazaslan,TİT101,30
+1001,Ahmet Berk,TDL101,40
+1002,Berat Yildizer,ENG101,45
+1002,Mahmut Yaldiz,MATH101,120
+1002,Sinan Akdal,CENG113,60
+1002,Irem Cetin,CHEM101,100
+1002,Sems Acar,CENG101,60
+1002,Duygu Yildirim,PHYS101,135
+1002,Anil Sever,PHYS103,135
+1002,Ramazan Kurnazaslan,TİT101,30
+1002,Ahmet Berk,TDL101,40
+1003,Berat Yildizer,ENG101,45
+1003,Mahmut Yaldiz,MATH101,120
+1003,Sinan Akdal,CENG113,60
+1003,Irem Cetin,CHEM101,100
+1003,Sems Acar,CENG101,60
+1003,Duygu Yildirim,PHYS101,135
+1003,Anil Sever,PHYS103,135
+1003,Ramazan Kurnazaslan,TİT101,30
+1003,Ahmet Berk,TDL101,40
+1004,Berat Yildizer,ENG101,45
+1004,Mahmut Yaldiz,MATH101,120
+1004,Sinan Akdal,CENG113,60
+1004,Irem Cetin,CHEM101,100
+1004,Sems Acar,CENG101,60
+1004,Duygu Yildirim,PHYS101,135
+1004,Anil Sever,PHYS103,135
+1004,Ramazan Kurnazaslan,TİT101,30
+1004,Ahmet Berk,TDL101,40
+1005,Berat Yildizer,ENG101,45
+1005,Mahmut Yaldiz,MATH101,120
+1005,Sinan Akdal,CENG113,60
+1005,Irem Cetin,CHEM101,100
+1005,Sems Acar,CENG101,60
+1005,Duygu Yildirim,PHYS101,135
+1005,Anil Sever,PHYS103,135
+1005,Ramazan Kurnazaslan,TİT101,30
+1005,Ahmet Berk,TDL101,40
+1006,Berat Yildizer,ENG101,45
+1006,Mahmut Yaldiz,MATH101,120
+1006,Sinan Akdal,CENG113,60
+1006,Irem Cetin,CHEM101,100
+1006,Sems Acar,CENG101,60
+1006,Duygu Yildirim,PHYS101,135
+1006,Anil Sever,PHYS103,135
+1006,Ramazan Kurnazaslan,TİT101,30
+1006,Ahmet Berk,TDL101,40
+1007,Berat Yildizer,ENG101,45
+1007,Mahmut Yaldiz,MATH101,120
+1007,Sinan Akdal,CENG113,60
+1007,Irem Cetin,CHEM101,100
+1007,Sems Acar,CENG101,60
+1007,Duygu Yildirim,PHYS101,135
+1007,Anil Sever,PHYS103,135
+1007,Ramazan Kurnazaslan,TİT101,30
+1007,Ahmet Berk,TDL101,40
+1008,Berat Yildizer,ENG101,45
+1008,Mahmut Yaldiz,MATH101,120
+1008,Sinan Akdal,CENG113,60
+1008,Irem Cetin,CHEM101,100
+1008,Sems Acar,CENG101,60
+1008,Duygu Yildirim,PHYS101,135
+1008,Anil Sever,PHYS103,135
+1008,Ramazan Kurnazaslan,TİT101,30
+1008,Ahmet Berk,TDL101,40
+1009,Berat Yildizer,ENG101,45
+1009,Mahmut Yaldiz,MATH101,120
+1009,Sinan Akdal,CENG113,60
+1009,Irem Cetin,CHEM101,100
+1009,Sems Acar,CENG101,60
+1009,Duygu Yildirim,PHYS101,135
+1009,Anil Sever,PHYS103,135
+1009,Ramazan Kurnazaslan,TİT101,30
+1009,Ahmet Berk,TDL101,40
+1010,Berat Yildizer,ENG101,45
+1010,Mahmut Yaldiz,MATH101,120
+1010,Sinan Akdal,CENG113,60
+1010,Irem Cetin,CHEM101,100
+1010,Sems Acar,CENG101,60
+1010,Duygu Yildirim,PHYS101,135
+1010,Anil Sever,PHYS103,135
+1010,Ramazan Kurnazaslan,TİT101,30
+1010,Ahmet Berk,TDL101,40
+1011,Berat Yildizer,ENG101,45
+1011,Mahmut Yaldiz,MATH101,120
+1011,Sinan Akdal,CENG113,60
+1011,Irem Cetin,CHEM101,100
+1011,Sems Acar,CENG101,60
+1011,Duygu Yildirim,PHYS101,135
+1011,Anil Sever,PHYS103,135
+1011,Ramazan Kurnazaslan,TİT101,30
+1011,Ahmet Berk,TDL101,40
+1012,Berat Yildizer,ENG101,45
+1012,Mahmut Yaldiz,MATH101,120
+1012,Sinan Akdal,CENG113,60
+1012,Irem Cetin,CHEM101,100
+1012,Sems Acar,CENG101,60
+1012,Duygu Yildirim,PHYS101,135
+1012,Anil Sever,PHYS103,135
+1012,Ramazan Kurnazaslan,TİT101,30
+1012,Ahmet Berk,TDL101,40
+1013,Berat Yildizer,ENG101,45
+1013,Mahmut Yaldiz,MATH101,120
+1013,Sinan Akdal,CENG113,60
+1013,Irem Cetin,CHEM101,100
+1013,Sems Acar,CENG101,60
+1013,Duygu Yildirim,PHYS101,135
+1013,Anil Sever,PHYS103,135
+1013,Ramazan Kurnazaslan,TİT101,30
+1013,Ahmet Berk,TDL101,40
+1014,Berat Yildizer,ENG101,45
+1014,Mahmut Yaldiz,MATH101,120
+1014,Sinan Akdal,CENG113,60
+1014,Irem Cetin,CHEM101,100
+1014,Sems Acar,CENG101,60
+1014,Duygu Yildirim,PHYS101,135
+1014,Anil Sever,PHYS103,135
+1014,Ramazan Kurnazaslan,TİT101,30
+1014,Ahmet Berk,TDL101,40
+1015,Berat Yildizer,ENG101,45
+1015,Mahmut Yaldiz,MATH101,120
+1015,Sinan Akdal,CENG113,60
+1015,Irem Cetin,CHEM101,100
+1015,Sems Acar,CENG101,60
+1015,Duygu Yildirim,PHYS101,135
+1015,Anil Sever,PHYS103,135
+1015,Ramazan Kurnazaslan,TİT101,30
+1015,Ahmet Berk,TDL101,40
+1016,Berat Yildizer,ENG101,45
+1016,Mahmut Yaldiz,MATH101,120
+1016,Sinan Akdal,CENG113,60
+1016,Irem Cetin,CHEM101,100
+1016,Sems Acar,CENG101,60
+1016,Duygu Yildirim,PHYS101,135
+1016,Anil Sever,PHYS103,135
+1016,Ramazan Kurnazaslan,TİT101,30
+1016,Ahmet Berk,TDL101,40
+1017,Berat Yildizer,ENG101,45
+1017,Mahmut Yaldiz,MATH101,120
+1017,Sinan Akdal,CENG113,60
+1017,Irem Cetin,CHEM101,100
+1017,Sems Acar,CENG101,60
+1017,Duygu Yildirim,PHYS101,135
+1017,Anil Sever,PHYS103,135
+1017,Ramazan Kurnazaslan,TİT101,30
+1017,Ahmet Berk,TDL101,40
+1018,Berat Yildizer,ENG101,45
+1018,Mahmut Yaldiz,MATH101,120
+1018,Sinan Akdal,CENG113,60
+1018,Irem Cetin,CHEM101,100
+1018,Sems Acar,CENG101,60
+1018,Duygu Yildirim,PHYS101,135
+1018,Anil Sever,PHYS103,135
+1018,Ramazan Kurnazaslan,TİT101,30
+1018,Ahmet Berk,TDL101,40
+1019,Berat Yildizer,ENG101,45
+1019,Mahmut Yaldiz,MATH101,120
+1019,Sinan Akdal,CENG113,60
+1019,Irem Cetin,CHEM101,100
+1019,Sems Acar,CENG101,60
+1019,Duygu Yildirim,PHYS101,135
+1019,Anil Sever,PHYS103,135
+1019,Ramazan Kurnazaslan,TİT101,30
+1019,Ahmet Berk,TDL101,40
+1020,Berat Yildizer,ENG101,45
+1020,Mahmut Yaldiz,MATH101,120
+1020,Sinan Akdal,CENG113,60
+1020,Irem Cetin,CHEM101,100
+1020,Sems Acar,CENG101,60
+1020,Duygu Yildirim,PHYS101,135
+1020,Anil Sever,PHYS103,135
+1020,Ramazan Kurnazaslan,TİT101,30
+1020,Ahmet Berk,TDL101,40
+1021,Berat Yildizer,ENG101,45
+1021,Mahmut Yaldiz,MATH101,120
+1021,Sinan Akdal,CENG113,60
+1021,Irem Cetin,CHEM101,100
+1021,Sems Acar,CENG101,60
+1021,Duygu Yildirim,PHYS101,135
+1021,Anil Sever,PHYS103,135
+1021,Ramazan Kurnazaslan,TİT101,30
+1021,Ahmet Berk,TDL101,40
+1022,Berat Yildizer,ENG101,45
+1022,Mahmut Yaldiz,MATH101,120
+1022,Sinan Akdal,CENG113,60
+1022,Irem Cetin,CHEM101,100
+1022,Sems Acar,CENG101,60
+1022,Duygu Yildirim,PHYS101,135
+1022,Anil Sever,PHYS103,135
+1022,Ramazan Kurnazaslan,TİT101,30
+1022,Ahmet Berk,TDL101,40
+1023,Berat Yildizer,ENG101,45
+1023,Mahmut Yaldiz,MATH101,120
+1023,Sinan Akdal,CENG113,60
+1023,Irem Cetin,CHEM101,100
+1023,Sems Acar,CENG101,60
+1023,Duygu Yildirim,PHYS101,135
+1023,Anil Sever,PHYS103,135
+1023,Ramazan Kurnazaslan,TİT101,30
+1023,Ahmet Berk,TDL101,40
+1024,Berat Yildizer,ENG101,45
+1024,Mahmut Yaldiz,MATH101,120
+1024,Sinan Akdal,CENG113,60
+1024,Irem Cetin,CHEM101,100
+1024,Sems Acar,CENG101,60
+1024,Duygu Yildirim,PHYS101,135
+1024,Anil Sever,PHYS103,135
+1024,Ramazan Kurnazaslan,TİT101,30
+1024,Ahmet Berk,TDL101,40
+1025,Berat Yildizer,ENG101,45
+1025,Mahmut Yaldiz,MATH101,120
+1025,Sinan Akdal,CENG113,60
+1025,Irem Cetin,CHEM101,100
+1025,Sems Acar,CENG101,60
+1025,Duygu Yildirim,PHYS101,135
+1025,Anil Sever,PHYS103,135
+1025,Ramazan Kurnazaslan,TİT101,30
+1025,Ahmet Berk,TDL101,40
+1026,Berat Yildizer,ENG101,45
+1026,Mahmut Yaldiz,MATH101,120
+1026,Sinan Akdal,CENG113,60
+1026,Irem Cetin,CHEM101,100
+1026,Sems Acar,CENG101,60
+1026,Duygu Yildirim,PHYS101,135
+1026,Anil Sever,PHYS103,135
+1026,Ramazan Kurnazaslan,TİT101,30
+1026,Ahmet Berk,TDL101,40
+1027,Berat Yildizer,ENG101,45
+1027,Mahmut Yaldiz,MATH101,120
+1027,Sinan Akdal,CENG113,60
+1027,Irem Cetin,CHEM101,100
+1027,Sems Acar,CENG101,60
+1027,Duygu Yildirim,PHYS101,135
+1027,Anil Sever,PHYS103,135
+1027,Ramazan Kurnazaslan,TİT101,30
+1027,Ahmet Berk,TDL101,40
+1028,Berat Yildizer,ENG101,45
+1028,Mahmut Yaldiz,MATH101,120
+1028,Sinan Akdal,CENG113,60
+1028,Irem Cetin,CHEM101,100
+1028,Sems Acar,CENG101,60
+1028,Duygu Yildirim,PHYS101,135
+1028,Anil Sever,PHYS103,135
+1028,Ramazan Kurnazaslan,TİT101,30
+1028,Ahmet Berk,TDL101,40
+1029,Berat Yildizer,ENG101,45
+1029,Mahmut Yaldiz,MATH101,120
+1029,Sinan Akdal,CENG113,60
+1029,Irem Cetin,CHEM101,100
+1029,Sems Acar,CENG101,60
+1029,Duygu Yildirim,PHYS101,135
+1029,Anil Sever,PHYS103,135
+1029,Ramazan Kurnazaslan,TİT101,30
+1029,Ahmet Berk,TDL101,40
+1030,Berat Yildizer,ENG101,45
+1030,Mahmut Yaldiz,MATH101,120
+1030,Sinan Akdal,CENG113,60
+1030,Irem Cetin,CHEM101,100
+1030,Sems Acar,CENG101,60
+1030,Duygu Yildirim,PHYS101,135
+1030,Anil Sever,PHYS103,135
+1030,Ramazan Kurnazaslan,TİT101,30
+1030,Ahmet Berk,TDL101,40
+1031,Berat Yildizer,ENG101,45
+1031,Mahmut Yaldiz,MATH101,120
+1031,Sinan Akdal,CENG113,60
+1031,Irem Cetin,CHEM101,100
+1031,Sems Acar,CENG101,60
+1031,Duygu Yildirim,PHYS101,135
+1031,Anil Sever,PHYS103,135
+1031,Ramazan Kurnazaslan,TİT101,30
+1031,Ahmet Berk,TDL101,40
+1032,Berat Yildizer,ENG101,45
+1032,Mahmut Yaldiz,MATH101,120
+1032,Sinan Akdal,CENG113,60
+1032,Irem Cetin,CHEM101,100
+1032,Sems Acar,CENG101,60
+1032,Duygu Yildirim,PHYS101,135
+1032,Anil Sever,PHYS103,135
+1032,Ramazan Kurnazaslan,TİT101,30
+1032,Ahmet Berk,TDL101,40
+1033,Berat Yildizer,ENG101,45
+1033,Mahmut Yaldiz,MATH101,120
+1033,Sinan Akdal,CENG113,60
+1033,Irem Cetin,CHEM101,100
+1033,Sems Acar,CENG101,60
+1033,Duygu Yildirim,PHYS101,135
+1033,Anil Sever,PHYS103,135
+1033,Ramazan Kurnazaslan,TİT101,30
+1033,Ahmet Berk,TDL101,40
+1034,Berat Yildizer,ENG101,45
+1034,Mahmut Yaldiz,MATH101,120
+1034,Sinan Akdal,CENG113,60
+1034,Irem Cetin,CHEM101,100
+1034,Sems Acar,CENG101,60
+1034,Duygu Yildirim,PHYS101,135
+1034,Anil Sever,PHYS103,135
+1034,Ramazan Kurnazaslan,TİT101,30
+1034,Ahmet Berk,TDL101,40
+1035,Berat Yildizer,ENG101,45
+1035,Mahmut Yaldiz,MATH101,120
+1035,Sinan Akdal,CENG113,60
+1035,Irem Cetin,CHEM101,100
+1035,Sems Acar,CENG101,60
+1035,Duygu Yildirim,PHYS101,135
+1035,Anil Sever,PHYS103,135
+1035,Ramazan Kurnazaslan,TİT101,30
+1035,Ahmet Berk,TDL101,40
+1036,Berat Yildizer,ENG101,45
+1036,Mahmut Yaldiz,MATH101,120
+1036,Sinan Akdal,CENG113,60
+1036,Irem Cetin,CHEM101,100
+1036,Sems Acar,CENG101,60
+1036,Duygu Yildirim,PHYS101,135
+1036,Anil Sever,PHYS103,135
+1036,Ramazan Kurnazaslan,TİT101,30
+1036,Ahmet Berk,TDL101,40
+1037,Berat Yildizer,ENG101,45
+1037,Mahmut Yaldiz,MATH101,120
+1037,Sinan Akdal,CENG113,60
+1037,Irem Cetin,CHEM101,100
+1037,Sems Acar,CENG101,60
+1037,Duygu Yildirim,PHYS101,135
+1037,Anil Sever,PHYS103,135
+1037,Ramazan Kurnazaslan,TİT101,30
+1037,Ahmet Berk,TDL101,40
+1038,Berat Yildizer,ENG101,45
+1038,Mahmut Yaldiz,MATH101,120
+1038,Sinan Akdal,CENG113,60
+1038,Irem Cetin,CHEM101,100
+1038,Sems Acar,CENG101,60
+1038,Duygu Yildirim,PHYS101,135
+1038,Anil Sever,PHYS103,135
+1038,Ramazan Kurnazaslan,TİT101,30
+1038,Ahmet Berk,TDL101,40
+1039,Berat Yildizer,ENG101,45
+1039,Mahmut Yaldiz,MATH101,120
+1039,Sinan Akdal,CENG113,60
+1039,Irem Cetin,CHEM101,100
+1039,Sems Acar,CENG101,60
+1039,Duygu Yildirim,PHYS101,135
+1039,Anil Sever,PHYS103,135
+1039,Ramazan Kurnazaslan,TİT101,30
+1039,Ahmet Berk,TDL101,40
+1040,Berat Yildizer,ENG101,45
+1040,Mahmut Yaldiz,MATH101,120
+1040,Sinan Akdal,CENG113,60
+1040,Irem Cetin,CHEM101,100
+1040,Sems Acar,CENG101,60
+1040,Duygu Yildirim,PHYS101,135
+1040,Anil Sever,PHYS103,135
+1040,Ramazan Kurnazaslan,TİT101,30
+1040,Ahmet Berk,TDL101,40
+1041,Berat Yildizer,ENG101,45
+1041,Mahmut Yaldiz,MATH101,120
+1041,Sinan Akdal,CENG113,60
+1041,Irem Cetin,CHEM101,100
+1041,Sems Acar,CENG101,60
+1041,Duygu Yildirim,PHYS101,135
+1041,Anil Sever,PHYS103,135
+1041,Ramazan Kurnazaslan,TİT101,30
+1041,Ahmet Berk,TDL101,40
+1042,Berat Yildizer,ENG101,45
+1042,Mahmut Yaldiz,MATH101,120
+1042,Sinan Akdal,CENG113,60
+1042,Irem Cetin,CHEM101,100
+1042,Sems Acar,CENG101,60
+1042,Duygu Yildirim,PHYS101,135
+1042,Anil Sever,PHYS103,135
+1042,Ramazan Kurnazaslan,TİT101,30
+1042,Ahmet Berk,TDL101,40
+1043,Berat Yildizer,ENG101,45
+1043,Mahmut Yaldiz,MATH101,120
+1043,Sinan Akdal,CENG113,60
+1043,Irem Cetin,CHEM101,100
+1043,Sems Acar,CENG101,60
+1043,Duygu Yildirim,PHYS101,135
+1043,Anil Sever,PHYS103,135
+1043,Ramazan Kurnazaslan,TİT101,30
+1043,Ahmet Berk,TDL101,40
+1044,Berat Yildizer,ENG101,45
+1044,Mahmut Yaldiz,MATH101,120
+1044,Sinan Akdal,CENG113,60
+1044,Irem Cetin,CHEM101,100
+1044,Sems Acar,CENG101,60
+1044,Duygu Yildirim,PHYS101,135
+1044,Anil Sever,PHYS103,135
+1044,Ramazan Kurnazaslan,TİT101,30
+1044,Ahmet Berk,TDL101,40
+1045,Berat Yildizer,ENG101,45
+1045,Mahmut Yaldiz,MATH101,120
+1045,Sinan Akdal,CENG113,60
+1045,Irem Cetin,CHEM101,100
+1045,Sems Acar,CENG101,60
+1045,Duygu Yildirim,PHYS101,135
+1045,Anil Sever,PHYS103,135
+1045,Ramazan Kurnazaslan,TİT101,30
+1045,Ahmet Berk,TDL101,40
+1046,Berat Yildizer,ENG101,45
+1046,Mahmut Yaldiz,MATH101,120
+1046,Sinan Akdal,CENG113,60
+1046,Irem Cetin,CHEM101,100
+1046,Sems Acar,CENG101,60
+1046,Duygu Yildirim,PHYS101,135
+1046,Anil Sever,PHYS103,135
+1046,Ramazan Kurnazaslan,TİT101,30
+1046,Ahmet Berk,TDL101,40
+1047,Berat Yildizer,ENG101,45
+1047,Mahmut Yaldiz,MATH101,120
+1047,Sinan Akdal,CENG113,60
+1047,Irem Cetin,CHEM101,100
+1047,Sems Acar,CENG101,60
+1047,Duygu Yildirim,PHYS101,135
+1047,Anil Sever,PHYS103,135
+1047,Ramazan Kurnazaslan,TİT101,30
+1047,Ahmet Berk,TDL101,40
+1048,Berat Yildizer,ENG101,45
+1048,Mahmut Yaldiz,MATH101,120
+1048,Sinan Akdal,CENG113,60
+1048,Irem Cetin,CHEM101,100
+1048,Sems Acar,CENG101,60
+1048,Duygu Yildirim,PHYS101,135
+1048,Anil Sever,PHYS103,135
+1048,Ramazan Kurnazaslan,TİT101,30
+1048,Ahmet Berk,TDL101,40
+1049,Berat Yildizer,ENG101,45
+1049,Mahmut Yaldiz,MATH101,120
+1049,Sinan Akdal,CENG113,60
+1049,Irem Cetin,CHEM101,100
+1049,Sems Acar,CENG101,60
+1049,Duygu Yildirim,PHYS101,135
+1049,Anil Sever,PHYS103,135
+1049,Ramazan Kurnazaslan,TİT101,30
+1049,Ahmet Berk,TDL101,40
+1050,Berat Yildizer,ENG101,45
+1050,Mahmut Yaldiz,MATH101,120
+1050,Sinan Akdal,CENG113,60
+1050,Irem Cetin,CHEM101,100
+1050,Sems Acar,CENG101,60
+1050,Duygu Yildirim,PHYS101,135
+1050,Anil Sever,PHYS103,135
+1050,Ramazan Kurnazaslan,TİT101,30
+1050,Ahmet Berk,TDL101,40
+1051,Berat Yildizer,ENG101,45
+1051,Mahmut Yaldiz,MATH101,120
+1051,Sinan Akdal,CENG113,60
+1051,Irem Cetin,CHEM101,100
+1051,Sems Acar,CENG101,60
+1051,Duygu Yildirim,PHYS101,135
+1051,Anil Sever,PHYS103,135
+1051,Ramazan Kurnazaslan,TİT101,30
+1051,Ahmet Berk,TDL101,40
+1052,Berat Yildizer,ENG101,45
+1052,Mahmut Yaldiz,MATH101,120
+1052,Sinan Akdal,CENG113,60
+1052,Irem Cetin,CHEM101,100
+1052,Sems Acar,CENG101,60
+1052,Duygu Yildirim,PHYS101,135
+1052,Anil Sever,PHYS103,135
+1052,Ramazan Kurnazaslan,TİT101,30
+1052,Ahmet Berk,TDL101,40
+1053,Berat Yildizer,ENG101,45
+1053,Mahmut Yaldiz,MATH101,120
+1053,Sinan Akdal,CENG113,60
+1053,Irem Cetin,CHEM101,100
+1053,Sems Acar,CENG101,60
+1053,Duygu Yildirim,PHYS101,135
+1053,Anil Sever,PHYS103,135
+1053,Ramazan Kurnazaslan,TİT101,30
+1053,Ahmet Berk,TDL101,40
+1054,Berat Yildizer,ENG101,45
+1054,Mahmut Yaldiz,MATH101,120
+1054,Sinan Akdal,CENG113,60
+1054,Irem Cetin,CHEM101,100
+1054,Sems Acar,CENG101,60
+1054,Duygu Yildirim,PHYS101,135
+1054,Anil Sever,PHYS103,135
+1054,Ramazan Kurnazaslan,TİT101,30
+1054,Ahmet Berk,TDL101,40
+1055,Berat Yildizer,ENG101,45
+1055,Mahmut Yaldiz,MATH101,120
+1055,Sinan Akdal,CENG113,60
+1055,Irem Cetin,CHEM101,100
+1055,Sems Acar,CENG101,60
+1055,Duygu Yildirim,PHYS101,135
+1055,Anil Sever,PHYS103,135
+1055,Ramazan Kurnazaslan,TİT101,30
+1055,Ahmet Berk,TDL101,40
+1056,Berat Yildizer,ENG101,45
+1056,Mahmut Yaldiz,MATH101,120
+1056,Sinan Akdal,CENG113,60
+1056,Irem Cetin,CHEM101,100
+1056,Sems Acar,CENG101,60
+1056,Duygu Yildirim,PHYS101,135
+1056,Anil Sever,PHYS103,135
+1056,Ramazan Kurnazaslan,TİT101,30
+1056,Ahmet Berk,TDL101,40
+1057,Berat Yildizer,ENG101,45
+1057,Mahmut Yaldiz,MATH101,120
+1057,Sinan Akdal,CENG113,60
+1057,Irem Cetin,CHEM101,100
+1057,Sems Acar,CENG101,60
+1057,Duygu Yildirim,PHYS101,135
+1057,Anil Sever,PHYS103,135
+1057,Ramazan Kurnazaslan,TİT101,30
+1057,Ahmet Berk,TDL101,40
+1058,Berat Yildizer,ENG101,45
+1058,Mahmut Yaldiz,MATH101,120
+1058,Sinan Akdal,CENG113,60
+1058,Irem Cetin,CHEM101,100
+1058,Sems Acar,CENG101,60
+1058,Duygu Yildirim,PHYS101,135
+1058,Anil Sever,PHYS103,135
+1058,Ramazan Kurnazaslan,TİT101,30
+1058,Ahmet Berk,TDL101,40
+1059,Berat Yildizer,ENG101,45
+1059,Mahmut Yaldiz,MATH101,120
+1059,Sinan Akdal,CENG113,60
+1059,Irem Cetin,CHEM101,100
+1059,Sems Acar,CENG101,60
+1059,Duygu Yildirim,PHYS101,135
+1059,Anil Sever,PHYS103,135
+1059,Ramazan Kurnazaslan,TİT101,30
+1059,Ahmet Berk,TDL101,40
+1060,Berat Yildizer,ENG101,45
+1060,Mahmut Yaldiz,MATH101,120
+1060,Sinan Akdal,CENG113,60
+1060,Irem Cetin,CHEM101,100
+1060,Sems Acar,CENG101,60
+1060,Duygu Yildirim,PHYS101,135
+1060,Anil Sever,PHYS103,135
+1060,Ramazan Kurnazaslan,TİT101,30
+1060,Ahmet Berk,TDL101,40
+1061,Berat Yildizer,ENG101,45
+1061,Mahmut Yaldiz,MATH101,120
+1061,Sinan Akdal,CENG113,60
+1061,Irem Cetin,CHEM101,100
+1061,Sems Acar,CENG101,60
+1061,Duygu Yildirim,PHYS101,135
+1061,Anil Sever,PHYS103,135
+1061,Ramazan Kurnazaslan,TİT101,30
+1061,Ahmet Berk,TDL101,40
+1062,Berat Yildizer,ENG101,45
+1062,Mahmut Yaldiz,MATH101,120
+1062,Sinan Akdal,CENG113,60
+1062,Irem Cetin,CHEM101,100
+1062,Sems Acar,CENG101,60
+1062,Duygu Yildirim,PHYS101,135
+1062,Anil Sever,PHYS103,135
+1062,Ramazan Kurnazaslan,TİT101,30
+1062,Ahmet Berk,TDL101,40
+1063,Berat Yildizer,ENG101,45
+1063,Mahmut Yaldiz,MATH101,120
+1063,Sinan Akdal,CENG113,60
+1063,Irem Cetin,CHEM101,100
+1063,Sems Acar,CENG101,60
+1063,Duygu Yildirim,PHYS101,135
+1063,Anil Sever,PHYS103,135
+1063,Ramazan Kurnazaslan,TİT101,30
+1063,Ahmet Berk,TDL101,40
+1064,Berat Yildizer,ENG101,45
+1064,Mahmut Yaldiz,MATH101,120
+1064,Sinan Akdal,CENG113,60
+1064,Irem Cetin,CHEM101,100
+1064,Sems Acar,CENG101,60
+1064,Duygu Yildirim,PHYS101,135
+1064,Anil Sever,PHYS103,135
+1064,Ramazan Kurnazaslan,TİT101,30
+1064,Ahmet Berk,TDL101,40
+1065,Berat Yildizer,ENG101,45
+1065,Mahmut Yaldiz,MATH101,120
+1065,Sinan Akdal,CENG113,60
+1065,Irem Cetin,CHEM101,100
+1065,Sems Acar,CENG101,60
+1065,Duygu Yildirim,PHYS101,135
+1065,Anil Sever,PHYS103,135
+1065,Ramazan Kurnazaslan,TİT101,30
+1065,Ahmet Berk,TDL101,40
+1066,Berat Yildizer,ENG101,45
+1066,Mahmut Yaldiz,MATH101,120
+1066,Sinan Akdal,CENG113,60
+1066,Irem Cetin,CHEM101,100
+1066,Sems Acar,CENG101,60
+1066,Duygu Yildirim,PHYS101,135
+1066,Anil Sever,PHYS103,135
+1066,Ramazan Kurnazaslan,TİT101,30
+1066,Ahmet Berk,TDL101,40
+1067,Berat Yildizer,ENG101,45
+1067,Mahmut Yaldiz,MATH101,120
+1067,Sinan Akdal,CENG113,60
+1067,Irem Cetin,CHEM101,100
+1067,Sems Acar,CENG101,60
+1067,Duygu Yildirim,PHYS101,135
+1067,Anil Sever,PHYS103,135
+1067,Ramazan Kurnazaslan,TİT101,30
+1067,Ahmet Berk,TDL101,40
+1068,Berat Yildizer,ENG101,45
+1068,Mahmut Yaldiz,MATH101,120
+1068,Sinan Akdal,CENG113,60
+1068,Irem Cetin,CHEM101,100
+1068,Sems Acar,CENG101,60
+1068,Duygu Yildirim,PHYS101,135
+1068,Anil Sever,PHYS103,135
+1068,Ramazan Kurnazaslan,TİT101,30
+1068,Ahmet Berk,TDL101,40
+1069,Berat Yildizer,ENG101,45
+1069,Mahmut Yaldiz,MATH101,120
+1069,Sinan Akdal,CENG113,60
+1069,Irem Cetin,CHEM101,100
+1069,Sems Acar,CENG101,60
+1069,Duygu Yildirim,PHYS101,135
+1069,Anil Sever,PHYS103,135
+1069,Ramazan Kurnazaslan,TİT101,30
+1069,Ahmet Berk,TDL101,40
+1070,Berat Yildizer,ENG101,45
+1070,Mahmut Yaldiz,MATH101,120
+1070,Sinan Akdal,CENG113,60
+1070,Irem Cetin,CHEM101,100
+1070,Sems Acar,CENG101,60
+1070,Duygu Yildirim,PHYS101,135
+1070,Anil Sever,PHYS103,135
+1070,Ramazan Kurnazaslan,TİT101,30
+1070,Ahmet Berk,TDL101,40
+1071,Berat Yildizer,ENG101,45
+1071,Mahmut Yaldiz,MATH101,120
+1071,Sinan Akdal,CENG113,60
+1071,Irem Cetin,CHEM101,100
+1071,Sems Acar,CENG101,60
+1071,Duygu Yildirim,PHYS101,135
+1071,Anil Sever,PHYS103,135
+1071,Ramazan Kurnazaslan,TİT101,30
+1071,Ahmet Berk,TDL101,40
+1072,Berat Yildizer,ENG101,45
+1072,Mahmut Yaldiz,MATH101,120
+1072,Sinan Akdal,CENG113,60
+1072,Irem Cetin,CHEM101,100
+1072,Sems Acar,CENG101,60
+1072,Duygu Yildirim,PHYS101,135
+1072,Anil Sever,PHYS103,135
+1072,Ramazan Kurnazaslan,TİT101,30
+1072,Ahmet Berk,TDL101,40
+1073,Berat Yildizer,ENG101,45
+1073,Mahmut Yaldiz,MATH101,120
+1073,Sinan Akdal,CENG113,60
+1073,Irem Cetin,CHEM101,100
+1073,Sems Acar,CENG101,60
+1073,Duygu Yildirim,PHYS101,135
+1073,Anil Sever,PHYS103,135
+1073,Ramazan Kurnazaslan,TİT101,30
+1073,Ahmet Berk,TDL101,40
+1074,Berat Yildizer,ENG101,45
+1074,Mahmut Yaldiz,MATH101,120
+1074,Sinan Akdal,CENG113,60
+1074,Irem Cetin,CHEM101,100
+1074,Sems Acar,CENG101,60
+1074,Duygu Yildirim,PHYS101,135
+1074,Anil Sever,PHYS103,135
+1074,Ramazan Kurnazaslan,TİT101,30
+1074,Ahmet Berk,TDL101,40
+1075,Berat Yildizer,ENG101,45
+1075,Mahmut Yaldiz,MATH101,120
+1075,Sinan Akdal,CENG113,60
+1075,Irem Cetin,CHEM101,100
+1075,Sems Acar,CENG101,60
+1075,Duygu Yildirim,PHYS101,135
+1075,Anil Sever,PHYS103,135
+1075,Ramazan Kurnazaslan,TİT101,30
+1075,Ahmet Berk,TDL101,40
+1076,Berat Yildizer,ENG101,45
+1076,Mahmut Yaldiz,MATH101,120
+1076,Sinan Akdal,CENG113,60
+1076,Irem Cetin,CHEM101,100
+1076,Sems Acar,CENG101,60
+1076,Duygu Yildirim,PHYS101,135
+1076,Anil Sever,PHYS103,135
+1076,Ramazan Kurnazaslan,TİT101,30
+1076,Ahmet Berk,TDL101,40
+1077,Berat Yildizer,ENG101,45
+1077,Mahmut Yaldiz,MATH101,120
+1077,Sinan Akdal,CENG113,60
+1077,Irem Cetin,CHEM101,100
+1077,Sems Acar,CENG101,60
+1077,Duygu Yildirim,PHYS101,135
+1077,Anil Sever,PHYS103,135
+1077,Ramazan Kurnazaslan,TİT101,30
+1077,Ahmet Berk,TDL101,40
+1078,Berat Yildizer,ENG101,45
+1078,Mahmut Yaldiz,MATH101,120
+1078,Sinan Akdal,CENG113,60
+1078,Irem Cetin,CHEM101,100
+1078,Sems Acar,CENG101,60
+1078,Duygu Yildirim,PHYS101,135
+1078,Anil Sever,PHYS103,135
+1078,Ramazan Kurnazaslan,TİT101,30
+1078,Ahmet Berk,TDL101,40
+1079,Berat Yildizer,ENG101,45
+1079,Mahmut Yaldiz,MATH101,120
+1079,Sinan Akdal,CENG113,60
+1079,Irem Cetin,CHEM101,100
+1079,Sems Acar,CENG101,60
+1079,Duygu Yildirim,PHYS101,135
+1079,Anil Sever,PHYS103,135
+1079,Ramazan Kurnazaslan,TİT101,30
+1079,Ahmet Berk,TDL101,40
+1080,Berat Yildizer,ENG101,45
+1080,Mahmut Yaldiz,MATH101,120
+1080,Sinan Akdal,CENG113,60
+1080,Irem Cetin,CHEM101,100
+1080,Sems Acar,CENG101,60
+1080,Duygu Yildirim,PHYS101,135
+1080,Anil Sever,PHYS103,135
+1080,Ramazan Kurnazaslan,TİT101,30
+1080,Ahmet Berk,TDL101,40
+1081,Mehmet Kavacik,CENG201,75
+1081,Talha Aydin,CENG203,90
+1081,Berat Yildizer,CENG209,45
+1081,Sinan Akdal,ENGR201,30
+1081,Fadime Gunes,ENGR260,120
+1081,Osman Onuk,CENG207,50
+1082,Mehmet Kavacik,CENG201,75
+1082,Talha Aydin,CENG203,90
+1082,Berat Yildizer,CENG209,45
+1082,Sinan Akdal,ENGR201,30
+1082,Fadime Gunes,ENGR260,120
+1082,Osman Onuk,CENG207,50
+1083,Mehmet Kavacik,CENG201,75
+1083,Talha Aydin,CENG203,90
+1083,Berat Yildizer,CENG209,45
+1083,Sinan Akdal,ENGR201,30
+1083,Fadime Gunes,ENGR260,120
+1083,Osman Onuk,CENG207,50
+1084,Mehmet Kavacik,CENG201,75
+1084,Talha Aydin,CENG203,90
+1084,Berat Yildizer,CENG209,45
+1084,Sinan Akdal,ENGR201,30
+1084,Fadime Gunes,ENGR260,120
+1084,Osman Onuk,CENG207,50
+1085,Mehmet Kavacik,CENG201,75
+1085,Talha Aydin,CENG203,90
+1085,Berat Yildizer,CENG209,45
+1085,Sinan Akdal,ENGR201,30
+1085,Fadime Gunes,ENGR260,120
+1085,Osman Onuk,CENG207,50
+1086,Mehmet Kavacik,CENG201,75
+1086,Talha Aydin,CENG203,90
+1086,Berat Yildizer,CENG209,45
+1086,Sinan Akdal,ENGR201,30
+1086,Fadime Gunes,ENGR260,120
+1086,Osman Onuk,CENG207,50
+1087,Mehmet Kavacik,CENG201,75
+1087,Talha Aydin,CENG203,90
+1087,Berat Yildizer,CENG209,45
+1087,Sinan Akdal,ENGR201,30
+1087,Fadime Gunes,ENGR260,120
+1087,Osman Onuk,CENG207,50
+1088,Mehmet Kavacik,CENG201,75
+1088,Talha Aydin,CENG203,90
+1088,Berat Yildizer,CENG209,45
+1088,Sinan Akdal,ENGR201,30
+1088,Fadime Gunes,ENGR260,120
+1088,Osman Onuk,CENG207,50
+1089,Mehmet Kavacik,CENG201,75
+1089,Talha Aydin,CENG203,90
+1089,Berat Yildizer,CENG209,45
+1089,Sinan Akdal,ENGR201,30
+1089,Fadime Gunes,ENGR260,120
+1089,Osman Onuk,CENG207,50
+1090,Mehmet Kavacik,CENG201,75
+1090,Talha Aydin,CENG203,90
+1090,Berat Yildizer,CENG209,45
+1090,Sinan Akdal,ENGR201,30
+1090,Fadime Gunes,ENGR260,120
+1090,Osman Onuk,CENG207,50
+1091,Mehmet Kavacik,CENG201,75
+1091,Talha Aydin,CENG203,90
+1091,Berat Yildizer,CENG209,45
+1091,Sinan Akdal,ENGR201,30
+1091,Fadime Gunes,ENGR260,120
+1091,Osman Onuk,CENG207,50
+1092,Mehmet Kavacik,CENG201,75
+1092,Talha Aydin,CENG203,90
+1092,Berat Yildizer,CENG209,45
+1092,Sinan Akdal,ENGR201,30
+1092,Fadime Gunes,ENGR260,120
+1092,Osman Onuk,CENG207,50
+1093,Mehmet Kavacik,CENG201,75
+1093,Talha Aydin,CENG203,90
+1093,Berat Yildizer,CENG209,45
+1093,Sinan Akdal,ENGR201,30
+1093,Fadime Gunes,ENGR260,120
+1093,Osman Onuk,CENG207,50
+1094,Mehmet Kavacik,CENG201,75
+1094,Talha Aydin,CENG203,90
+1094,Berat Yildizer,CENG209,45
+1094,Sinan Akdal,ENGR201,30
+1094,Fadime Gunes,ENGR260,120
+1094,Osman Onuk,CENG207,50
+1095,Mehmet Kavacik,CENG201,75
+1095,Talha Aydin,CENG203,90
+1095,Berat Yildizer,CENG209,45
+1095,Sinan Akdal,ENGR201,30
+1095,Fadime Gunes,ENGR260,120
+1095,Osman Onuk,CENG207,50
+1096,Mehmet Kavacik,CENG201,75
+1096,Talha Aydin,CENG203,90
+1096,Berat Yildizer,CENG209,45
+1096,Sinan Akdal,ENGR201,30
+1096,Fadime Gunes,ENGR260,120
+1096,Osman Onuk,CENG207,50
+1097,Mehmet Kavacik,CENG201,75
+1097,Talha Aydin,CENG203,90
+1097,Berat Yildizer,CENG209,45
+1097,Sinan Akdal,ENGR201,30
+1097,Fadime Gunes,ENGR260,120
+1097,Osman Onuk,CENG207,50
+1098,Mehmet Kavacik,CENG201,75
+1098,Talha Aydin,CENG203,90
+1098,Berat Yildizer,CENG209,45
+1098,Sinan Akdal,ENGR201,30
+1098,Fadime Gunes,ENGR260,120
+1098,Osman Onuk,CENG207,50
+1099,Mehmet Kavacik,CENG201,75
+1099,Talha Aydin,CENG203,90
+1099,Berat Yildizer,CENG209,45
+1099,Sinan Akdal,ENGR201,30
+1099,Fadime Gunes,ENGR260,120
+1099,Osman Onuk,CENG207,50
+1100,Mehmet Kavacik,CENG201,75
+1100,Talha Aydin,CENG203,90
+1100,Berat Yildizer,CENG209,45
+1100,Sinan Akdal,ENGR201,30
+1100,Fadime Gunes,ENGR260,120
+1100,Osman Onuk,CENG207,50
+1101,Mehmet Kavacik,CENG201,75
+1101,Talha Aydin,CENG203,90
+1101,Berat Yildizer,CENG209,45
+1101,Sinan Akdal,ENGR201,30
+1101,Fadime Gunes,ENGR260,120
+1101,Osman Onuk,CENG207,50
+1102,Mehmet Kavacik,CENG201,75
+1102,Talha Aydin,CENG203,90
+1102,Berat Yildizer,CENG209,45
+1102,Sinan Akdal,ENGR201,30
+1102,Fadime Gunes,ENGR260,120
+1102,Osman Onuk,CENG207,50
+1103,Mehmet Kavacik,CENG201,75
+1103,Talha Aydin,CENG203,90
+1103,Berat Yildizer,CENG209,45
+1103,Sinan Akdal,ENGR201,30
+1103,Fadime Gunes,ENGR260,120
+1103,Osman Onuk,CENG207,50
+1104,Mehmet Kavacik,CENG201,75
+1104,Talha Aydin,CENG203,90
+1104,Berat Yildizer,CENG209,45
+1104,Sinan Akdal,ENGR201,30
+1104,Fadime Gunes,ENGR260,120
+1104,Osman Onuk,CENG207,50
+1105,Mehmet Kavacik,CENG201,75
+1105,Talha Aydin,CENG203,90
+1105,Berat Yildizer,CENG209,45
+1105,Sinan Akdal,ENGR201,30
+1105,Fadime Gunes,ENGR260,120
+1105,Osman Onuk,CENG207,50
+1106,Mehmet Kavacik,CENG201,75
+1106,Talha Aydin,CENG203,90
+1106,Berat Yildizer,CENG209,45
+1106,Sinan Akdal,ENGR201,30
+1106,Fadime Gunes,ENGR260,120
+1106,Osman Onuk,CENG207,50
+1107,Mehmet Kavacik,CENG201,75
+1107,Talha Aydin,CENG203,90
+1107,Berat Yildizer,CENG209,45
+1107,Sinan Akdal,ENGR201,30
+1107,Fadime Gunes,ENGR260,120
+1107,Osman Onuk,CENG207,50
+1108,Mehmet Kavacik,CENG201,75
+1108,Talha Aydin,CENG203,90
+1108,Berat Yildizer,CENG209,45
+1108,Sinan Akdal,ENGR201,30
+1108,Fadime Gunes,ENGR260,120
+1108,Osman Onuk,CENG207,50
+1109,Mehmet Kavacik,CENG201,75
+1109,Talha Aydin,CENG203,90
+1109,Berat Yildizer,CENG209,45
+1109,Sinan Akdal,ENGR201,30
+1109,Fadime Gunes,ENGR260,120
+1109,Osman Onuk,CENG207,50
+1110,Mehmet Kavacik,CENG201,75
+1110,Talha Aydin,CENG203,90
+1110,Berat Yildizer,CENG209,45
+1110,Sinan Akdal,ENGR201,30
+1110,Fadime Gunes,ENGR260,120
+1110,Osman Onuk,CENG207,50
+1111,Mehmet Kavacik,CENG201,75
+1111,Talha Aydin,CENG203,90
+1111,Berat Yildizer,CENG209,45
+1111,Sinan Akdal,ENGR201,30
+1111,Fadime Gunes,ENGR260,120
+1111,Osman Onuk,CENG207,50
+1112,Mehmet Kavacik,CENG201,75
+1112,Talha Aydin,CENG203,90
+1112,Berat Yildizer,CENG209,45
+1112,Sinan Akdal,ENGR201,30
+1112,Fadime Gunes,ENGR260,120
+1112,Osman Onuk,CENG207,50
+1113,Mehmet Kavacik,CENG201,75
+1113,Talha Aydin,CENG203,90
+1113,Berat Yildizer,CENG209,45
+1113,Sinan Akdal,ENGR201,30
+1113,Fadime Gunes,ENGR260,120
+1113,Osman Onuk,CENG207,50
+1114,Mehmet Kavacik,CENG201,75
+1114,Talha Aydin,CENG203,90
+1114,Berat Yildizer,CENG209,45
+1114,Sinan Akdal,ENGR201,30
+1114,Fadime Gunes,ENGR260,120
+1114,Osman Onuk,CENG207,50
+1115,Mehmet Kavacik,CENG201,75
+1115,Talha Aydin,CENG203,90
+1115,Berat Yildizer,CENG209,45
+1115,Sinan Akdal,ENGR201,30
+1115,Fadime Gunes,ENGR260,120
+1115,Osman Onuk,CENG207,50
+1116,Mehmet Kavacik,CENG201,75
+1116,Talha Aydin,CENG203,90
+1116,Berat Yildizer,CENG209,45
+1116,Sinan Akdal,ENGR201,30
+1116,Fadime Gunes,ENGR260,120
+1116,Osman Onuk,CENG207,50
+1117,Mehmet Kavacik,CENG201,75
+1117,Talha Aydin,CENG203,90
+1117,Berat Yildizer,CENG209,45
+1117,Sinan Akdal,ENGR201,30
+1117,Fadime Gunes,ENGR260,120
+1117,Osman Onuk,CENG207,50
+1118,Mehmet Kavacik,CENG201,75
+1118,Talha Aydin,CENG203,90
+1118,Berat Yildizer,CENG209,45
+1118,Sinan Akdal,ENGR201,30
+1118,Fadime Gunes,ENGR260,120
+1118,Osman Onuk,CENG207,50
+1119,Mehmet Kavacik,CENG201,75
+1119,Talha Aydin,CENG203,90
+1119,Berat Yildizer,CENG209,45
+1119,Sinan Akdal,ENGR201,30
+1119,Fadime Gunes,ENGR260,120
+1119,Osman Onuk,CENG207,50
+1120,Mehmet Kavacik,CENG201,75
+1120,Talha Aydin,CENG203,90
+1120,Berat Yildizer,CENG209,45
+1120,Sinan Akdal,ENGR201,30
+1120,Fadime Gunes,ENGR260,120
+1120,Osman Onuk,CENG207,50
+1121,Mehmet Kavacik,CENG201,75
+1121,Talha Aydin,CENG203,90
+1121,Berat Yildizer,CENG209,45
+1121,Sinan Akdal,ENGR201,30
+1121,Fadime Gunes,ENGR260,120
+1121,Osman Onuk,CENG207,50
+1122,Mehmet Kavacik,CENG201,75
+1122,Talha Aydin,CENG203,90
+1122,Berat Yildizer,CENG209,45
+1122,Sinan Akdal,ENGR201,30
+1122,Fadime Gunes,ENGR260,120
+1122,Osman Onuk,CENG207,50
+1123,Mahmut Yaldiz,CENG300,40
+1123,Osman Onuk,CENG301,30
+1123,Berat Yildizer,CENG303,75
+1123,Irem Cetin,CENG305,60
+1123,Elif Selvitopu,CENG307,90
+1123,Engin Agbulut,CENGXXX,45
+1124,Mahmut Yaldiz,CENG300,40
+1124,Osman Onuk,CENG301,30
+1124,Berat Yildizer,CENG303,75
+1124,Irem Cetin,CENG305,60
+1124,Elif Selvitopu,CENG307,90
+1124,Engin Agbulut,CENGXXX,45
+1125,Mahmut Yaldiz,CENG300,40
+1125,Osman Onuk,CENG301,30
+1125,Berat Yildizer,CENG303,75
+1125,Irem Cetin,CENG305,60
+1125,Elif Selvitopu,CENG307,90
+1125,Engin Agbulut,CENGXXX,45
+1126,Mahmut Yaldiz,CENG300,40
+1126,Osman Onuk,CENG301,30
+1126,Berat Yildizer,CENG303,75
+1126,Irem Cetin,CENG305,60
+1126,Elif Selvitopu,CENG307,90
+1126,Engin Agbulut,CENGXXX,45
+1127,Mahmut Yaldiz,CENG300,40
+1127,Osman Onuk,CENG301,30
+1127,Berat Yildizer,CENG303,75
+1127,Irem Cetin,CENG305,60
+1127,Elif Selvitopu,CENG307,90
+1127,Engin Agbulut,CENGXXX,45
+1128,Mahmut Yaldiz,CENG300,40
+1128,Osman Onuk,CENG301,30
+1128,Berat Yildizer,CENG303,75
+1128,Irem Cetin,CENG305,60
+1128,Elif Selvitopu,CENG307,90
+1128,Engin Agbulut,CENGXXX,45
+1129,Mahmut Yaldiz,CENG300,40
+1129,Osman Onuk,CENG301,30
+1129,Berat Yildizer,CENG303,75
+1129,Irem Cetin,CENG305,60
+1129,Elif Selvitopu,CENG307,90
+1129,Engin Agbulut,CENGXXX,45
+1130,Mahmut Yaldiz,CENG300,40
+1130,Osman Onuk,CENG301,30
+1130,Berat Yildizer,CENG303,75
+1130,Irem Cetin,CENG305,60
+1130,Elif Selvitopu,CENG307,90
+1130,Engin Agbulut,CENGXXX,45
+1131,Mahmut Yaldiz,CENG300,40
+1131,Osman Onuk,CENG301,30
+1131,Berat Yildizer,CENG303,75
+1131,Irem Cetin,CENG305,60
+1131,Elif Selvitopu,CENG307,90
+1131,Engin Agbulut,CENGXXX,45
+1132,Mahmut Yaldiz,CENG300,40
+1132,Osman Onuk,CENG301,30
+1132,Berat Yildizer,CENG303,75
+1132,Irem Cetin,CENG305,60
+1132,Elif Selvitopu,CENG307,90
+1132,Engin Agbulut,CENGXXX,45
+1133,Mahmut Yaldiz,CENG300,40
+1133,Osman Onuk,CENG301,30
+1133,Berat Yildizer,CENG303,75
+1133,Irem Cetin,CENG305,60
+1133,Elif Selvitopu,CENG307,90
+1133,Engin Agbulut,CENGXXX,45
+1134,Mahmut Yaldiz,CENG300,40
+1134,Osman Onuk,CENG301,30
+1134,Berat Yildizer,CENG303,75
+1134,Irem Cetin,CENG305,60
+1134,Elif Selvitopu,CENG307,90
+1134,Engin Agbulut,CENGXXX,45
+1135,Mahmut Yaldiz,CENG300,40
+1135,Osman Onuk,CENG301,30
+1135,Berat Yildizer,CENG303,75
+1135,Irem Cetin,CENG305,60
+1135,Elif Selvitopu,CENG307,90
+1135,Engin Agbulut,CENGXXX,45
+1136,Mahmut Yaldiz,CENG300,40
+1136,Osman Onuk,CENG301,30
+1136,Berat Yildizer,CENG303,75
+1136,Irem Cetin,CENG305,60
+1136,Elif Selvitopu,CENG307,90
+1136,Engin Agbulut,CENGXXX,45
+1137,Mahmut Yaldiz,CENG300,40
+1137,Osman Onuk,CENG301,30
+1137,Berat Yildizer,CENG303,75
+1137,Irem Cetin,CENG305,60
+1137,Elif Selvitopu,CENG307,90
+1137,Engin Agbulut,CENGXXX,45
+1138,Mahmut Yaldiz,CENG300,40
+1138,Osman Onuk,CENG301,30
+1138,Berat Yildizer,CENG303,75
+1138,Irem Cetin,CENG305,60
+1138,Elif Selvitopu,CENG307,90
+1138,Engin Agbulut,CENGXXX,45
+1139,Mahmut Yaldiz,CENG300,40
+1139,Osman Onuk,CENG301,30
+1139,Berat Yildizer,CENG303,75
+1139,Irem Cetin,CENG305,60
+1139,Elif Selvitopu,CENG307,90
+1139,Engin Agbulut,CENGXXX,45
+1140,Mahmut Yaldiz,CENG300,40
+1140,Osman Onuk,CENG301,30
+1140,Berat Yildizer,CENG303,75
+1140,Irem Cetin,CENG305,60
+1140,Elif Selvitopu,CENG307,90
+1140,Engin Agbulut,CENGXXX,45
+1141,Mahmut Yaldiz,CENG300,40
+1141,Osman Onuk,CENG301,30
+1141,Berat Yildizer,CENG303,75
+1141,Irem Cetin,CENG305,60
+1141,Elif Selvitopu,CENG307,90
+1141,Engin Agbulut,CENGXXX,45
+1142,Mahmut Yaldiz,CENG300,40
+1142,Osman Onuk,CENG301,30
+1142,Berat Yildizer,CENG303,75
+1142,Irem Cetin,CENG305,60
+1142,Elif Selvitopu,CENG307,90
+1142,Engin Agbulut,CENGXXX,45
+1143,Mahmut Yaldiz,CENG300,40
+1143,Osman Onuk,CENG301,30
+1143,Berat Yildizer,CENG303,75
+1143,Irem Cetin,CENG305,60
+1143,Elif Selvitopu,CENG307,90
+1143,Engin Agbulut,CENGXXX,45
+1144,Mahmut Yaldiz,CENG300,40
+1144,Osman Onuk,CENG301,30
+1144,Berat Yildizer,CENG303,75
+1144,Irem Cetin,CENG305,60
+1144,Elif Selvitopu,CENG307,90
+1144,Engin Agbulut,CENGXXX,45
+1145,KutluhanAkarcesme,CENG400,140
+1145,Mustafa?eybek,CENG401,80
+1145,Sems Acar,CENG403,30
+1145,Mehmet Kavacik,CENG405,60
+1145,Berat Yildizer,CENG407,45
+1145,Duygu Yildirim,CENG408,75
+1146,KutluhanAkarcesme,CENG400,140
+1146,Mustafa?eybek,CENG401,80
+1146,Sems Acar,CENG403,30
+1146,Mehmet Kavacik,CENG405,60
+1146,Berat Yildizer,CENG407,45
+1146,Duygu Yildirim,CENG408,75
+1147,KutluhanAkarcesme,CENG400,140
+1147,Mustafa?eybek,CENG401,80
+1147,Sems Acar,CENG403,30
+1147,Mehmet Kavacik,CENG405,60
+1147,Berat Yildizer,CENG407,45
+1147,Duygu Yildirim,CENG408,75
+1148,KutluhanAkarcesme,CENG400,140
+1148,Mustafa?eybek,CENG401,80
+1148,Sems Acar,CENG403,30
+1148,Mehmet Kavacik,CENG405,60
+1148,Berat Yildizer,CENG407,45
+1148,Duygu Yildirim,CENG408,75
+1149,KutluhanAkarcesme,CENG400,140
+1149,Mustafa?eybek,CENG401,80
+1149,Sems Acar,CENG403,30
+1149,Mehmet Kavacik,CENG405,60
+1149,Berat Yildizer,CENG407,45
+1149,Duygu Yildirim,CENG408,75
+1150,KutluhanAkarcesme,CENG400,140
+1150,Mustafa?eybek,CENG401,80
+1150,Sems Acar,CENG403,30
+1150,Mehmet Kavacik,CENG405,60
+1150,Berat Yildizer,CENG407,45
+1150,Duygu Yildirim,CENG408,75
+1151,KutluhanAkarcesme,CENG400,140
+1151,Mustafa?eybek,CENG401,80
+1151,Sems Acar,CENG403,30
+1151,Mehmet Kavacik,CENG405,60
+1151,Berat Yildizer,CENG407,45
+1151,Duygu Yildirim,CENG408,75
+1152,KutluhanAkarcesme,CENG400,140
+1152,Mustafa?eybek,CENG401,80
+1152,Sems Acar,CENG403,30
+1152,Mehmet Kavacik,CENG405,60
+1152,Berat Yildizer,CENG407,45
+1152,Duygu Yildirim,CENG408,75
+1153,KutluhanAkarcesme,CENG400,140
+1153,Mustafa?eybek,CENG401,80
+1153,Sems Acar,CENG403,30
+1153,Mehmet Kavacik,CENG405,60
+1153,Berat Yildizer,CENG407,45
+1153,Duygu Yildirim,CENG408,75
+1154,KutluhanAkarcesme,CENG400,140
+1154,Mustafa?eybek,CENG401,80
+1154,Sems Acar,CENG403,30
+1154,Mehmet Kavacik,CENG405,60
+1154,Berat Yildizer,CENG407,45
+1154,Duygu Yildirim,CENG408,75
+1155,KutluhanAkarcesme,CENG400,140
+1155,Mustafa?eybek,CENG401,80
+1155,Sems Acar,CENG403,30
+1155,Mehmet Kavacik,CENG405,60
+1155,Berat Yildizer,CENG407,45
+1155,Duygu Yildirim,CENG408,75
+1156,KutluhanAkarcesme,CENG400,140
+1156,Mustafa?eybek,CENG401,80
+1156,Sems Acar,CENG403,30
+1156,Mehmet Kavacik,CENG405,60
+1156,Berat Yildizer,CENG407,45
+1156,Duygu Yildirim,CENG408,75
+1157,KutluhanAkarcesme,CENG400,140
+1157,Mustafa?eybek,CENG401,80
+1157,Sems Acar,CENG403,30
+1157,Mehmet Kavacik,CENG405,60
+1157,Berat Yildizer,CENG407,45
+1157,Duygu Yildirim,CENG408,75
+1158,KutluhanAkarcesme,CENG400,140
+1158,Mustafa?eybek,CENG401,80
+1158,Sems Acar,CENG403,30
+1158,Mehmet Kavacik,CENG405,60
+1158,Berat Yildizer,CENG407,45
+1158,Duygu Yildirim,CENG408,75
+1159,KutluhanAkarcesme,CENG400,140
+1159,Mustafa?eybek,CENG401,80
+1159,Sems Acar,CENG403,30
+1159,Mehmet Kavacik,CENG405,60
+1159,Berat Yildizer,CENG407,45
+1159,Duygu Yildirim,CENG408,75
+1160,KutluhanAkarcesme,CENG400,140
+1160,Mustafa?eybek,CENG401,80
+1160,Sems Acar,CENG403,30
+1160,Mehmet Kavacik,CENG405,60
+1160,Berat Yildizer,CENG407,45
+1160,Duygu Yildirim,CENG408,75
+1161,KutluhanAkarcesme,CENG400,140
+1161,Mustafa?eybek,CENG401,80
+1161,Sems Acar,CENG403,30
+1161,Mehmet Kavacik,CENG405,60
+1161,Berat Yildizer,CENG407,45
+1161,Duygu Yildirim,CENG408,75
+1162,KutluhanAkarcesme,CENG400,140
+1162,Mustafa?eybek,CENG401,80
+1162,Sems Acar,CENG403,30
+1162,Mehmet Kavacik,CENG405,60
+1162,Berat Yildizer,CENG407,45
+1162,Duygu Yildirim,CENG408,75
+1163,KutluhanAkarcesme,CENG400,140
+1163,Mustafa?eybek,CENG401,80
+1163,Sems Acar,CENG403,30
+1163,Mehmet Kavacik,CENG405,60
+1163,Berat Yildizer,CENG407,45
+1163,Duygu Yildirim,CENG408,75
+1164,KutluhanAkarcesme,CENG400,140
+1164,Mustafa?eybek,CENG401,80
+1164,Sems Acar,CENG403,30
+1164,Mehmet Kavacik,CENG405,60
+1164,Berat Yildizer,CENG407,45
+1164,Duygu Yildirim,CENG408,75
+1165,KutluhanAkarcesme,CENG400,140
+1165,Mustafa?eybek,CENG401,80
+1165,Sems Acar,CENG403,30
+1165,Mehmet Kavacik,CENG405,60
+1165,Berat Yildizer,CENG407,45
+1165,Duygu Yildirim,CENG408,75
+1166,KutluhanAkarcesme,CENG400,140
+1166,Mustafa?eybek,CENG401,80
+1166,Sems Acar,CENG403,30
+1166,Mehmet Kavacik,CENG405,60
+1166,Berat Yildizer,CENG407,45
+1166,Duygu Yildirim,CENG408,75
+1167,KutluhanAkarcesme,CENG400,140
+1167,Mustafa?eybek,CENG401,80
+1167,Sems Acar,CENG403,30
+1167,Mehmet Kavacik,CENG405,60
+1167,Berat Yildizer,CENG407,45
+1167,Duygu Yildirim,CENG408,75
+1168,KutluhanAkarcesme,CENG400,140
+1168,Mustafa?eybek,CENG401,80
+1168,Sems Acar,CENG403,30
+1168,Mehmet Kavacik,CENG405,60
+1168,Berat Yildizer,CENG407,45
+1168,Duygu Yildirim,CENG408,75
+1169,KutluhanAkarcesme,CENG400,140
+1169,Mustafa?eybek,CENG401,80
+1169,Sems Acar,CENG403,30
+1169,Mehmet Kavacik,CENG405,60
+1169,Berat Yildizer,CENG407,45
+1169,Duygu Yildirim,CENG408,75
+1170,KutluhanAkarcesme,CENG400,140
+1170,Mustafa?eybek,CENG401,80
+1170,Sems Acar,CENG403,30
+1170,Mehmet Kavacik,CENG405,60
+1170,Berat Yildizer,CENG407,45
+1170,Duygu Yildirim,CENG408,75
+1171,KutluhanAkarcesme,CENG400,140
+1171,Mustafa?eybek,CENG401,80
+1171,Sems Acar,CENG403,30
+1171,Mehmet Kavacik,CENG405,60
+1171,Berat Yildizer,CENG407,45
+1171,Duygu Yildirim,CENG408,75
+1172,KutluhanAkarcesme,CENG400,140
+1172,Mustafa?eybek,CENG401,80
+1172,Sems Acar,CENG403,30
+1172,Mehmet Kavacik,CENG405,60
+1172,Berat Yildizer,CENG407,45
+1172,Duygu Yildirim,CENG408,75
+1173,KutluhanAkarcesme,CENG400,140
+1173,Mustafa?eybek,CENG401,80
+1173,Sems Acar,CENG403,30
+1173,Mehmet Kavacik,CENG405,60
+1173,Berat Yildizer,CENG407,45
+1173,Duygu Yildirim,CENG408,75
+1174,KutluhanAkarcesme,CENG400,140
+1174,Mustafa?eybek,CENG401,80
+1174,Sems Acar,CENG403,30
+1174,Mehmet Kavacik,CENG405,60
+1174,Berat Yildizer,CENG407,45
+1174,Duygu Yildirim,CENG408,75
+1175,KutluhanAkarcesme,CENG400,140
+1175,Mustafa?eybek,CENG401,80
+1175,Sems Acar,CENG403,30
+1175,Mehmet Kavacik,CENG405,60
+1175,Berat Yildizer,CENG407,45
+1175,Duygu Yildirim,CENG408,75
+1176,KutluhanAkarcesme,CENG400,140
+1176,Mustafa?eybek,CENG401,80
+1176,Sems Acar,CENG403,30
+1176,Mehmet Kavacik,CENG405,60
+1176,Berat Yildizer,CENG407,45
+1176,Duygu Yildirim,CENG408,75
+1177,KutluhanAkarcesme,CENG400,140
+1177,Mustafa?eybek,CENG401,80
+1177,Sems Acar,CENG403,30
+1177,Mehmet Kavacik,CENG405,60
+1177,Berat Yildizer,CENG407,45
+1177,Duygu Yildirim,CENG408,75
+1178,KutluhanAkarcesme,CENG400,140
+1178,Mustafa?eybek,CENG401,80
+1178,Sems Acar,CENG403,30
+1178,Mehmet Kavacik,CENG405,60
+1178,Berat Yildizer,CENG407,45
+1178,Duygu Yildirim,CENG408,75
+1179,KutluhanAkarcesme,CENG400,140
+1179,Mustafa?eybek,CENG401,80
+1179,Sems Acar,CENG403,30
+1179,Mehmet Kavacik,CENG405,60
+1179,Berat Yildizer,CENG407,45
+1179,Duygu Yildirim,CENG408,75
+1180,KutluhanAkarcesme,CENG400,140
+1180,Mustafa?eybek,CENG401,80
+1180,Sems Acar,CENG403,30
+1180,Mehmet Kavacik,CENG405,60
+1180,Berat Yildizer,CENG407,45
+1180,Duygu Yildirim,CENG408,75
+1181,KutluhanAkarcesme,CENG400,140
+1181,Mustafa?eybek,CENG401,80
+1181,Sems Acar,CENG403,30
+1181,Mehmet Kavacik,CENG405,60
+1181,Berat Yildizer,CENG407,45
+1181,Duygu Yildirim,CENG408,75
+1182,KutluhanAkarcesme,CENG400,140
+1182,Mustafa?eybek,CENG401,80
+1182,Sems Acar,CENG403,30
+1182,Mehmet Kavacik,CENG405,60
+1182,Berat Yildizer,CENG407,45
+1182,Duygu Yildirim,CENG408,75
+1183,KutluhanAkarcesme,CENG400,140
+1183,Mustafa?eybek,CENG401,80
+1183,Sems Acar,CENG403,30
+1183,Mehmet Kavacik,CENG405,60
+1183,Berat Yildizer,CENG407,45
+1183,Duygu Yildirim,CENG408,75
+1184,KutluhanAkarcesme,CENG400,140
+1184,Mustafa?eybek,CENG401,80
+1184,Sems Acar,CENG403,30
+1184,Mehmet Kavacik,CENG405,60
+1184,Berat Yildizer,CENG407,45
+1184,Duygu Yildirim,CENG408,75
+1185,KutluhanAkarcesme,CENG400,140
+1185,Mustafa?eybek,CENG401,80
+1185,Sems Acar,CENG403,30
+1185,Mehmet Kavacik,CENG405,60
+1185,Berat Yildizer,CENG407,45
+1185,Duygu Yildirim,CENG408,75
+1186,KutluhanAkarcesme,CENG400,140
+1186,Mustafa?eybek,CENG401,80
+1186,Sems Acar,CENG403,30
+1186,Mehmet Kavacik,CENG405,60
+1186,Berat Yildizer,CENG407,45
+1186,Duygu Yildirim,CENG408,75
+1187,KutluhanAkarcesme,CENG400,140
+1187,Mustafa?eybek,CENG401,80
+1187,Sems Acar,CENG403,30
+1187,Mehmet Kavacik,CENG405,60
+1187,Berat Yildizer,CENG407,45
+1187,Duygu Yildirim,CENG408,75
+1188,KutluhanAkarcesme,CENG400,140
+1188,Mustafa?eybek,CENG401,80
+1188,Sems Acar,CENG403,30
+1188,Mehmet Kavacik,CENG405,60
+1188,Berat Yildizer,CENG407,45
+1188,Duygu Yildirim,CENG408,75
+1189,KutluhanAkarcesme,CENG400,140
+1189,Mustafa?eybek,CENG401,80
+1189,Sems Acar,CENG403,30
+1189,Mehmet Kavacik,CENG405,60
+1189,Berat Yildizer,CENG407,45
+1189,Duygu Yildirim,CENG408,75
+1190,KutluhanAkarcesme,CENG400,140
+1190,Mustafa?eybek,CENG401,80
+1190,Sems Acar,CENG403,30
+1190,Mehmet Kavacik,CENG405,60
+1190,Berat Yildizer,CENG407,45
+1190,Duygu Yildirim,CENG408,75
+1191,KutluhanAkarcesme,CENG400,140
+1191,Mustafa?eybek,CENG401,80
+1191,Sems Acar,CENG403,30
+1191,Mehmet Kavacik,CENG405,60
+1191,Berat Yildizer,CENG407,45
+1191,Duygu Yildirim,CENG408,75
+1192,KutluhanAkarcesme,CENG400,140
+1192,Mustafa?eybek,CENG401,80
+1192,Sems Acar,CENG403,30
+1192,Mehmet Kavacik,CENG405,60
+1192,Berat Yildizer,CENG407,45
+1192,Duygu Yildirim,CENG408,75
+1193,KutluhanAkarcesme,CENG400,140
+1193,Mustafa?eybek,CENG401,80
+1193,Sems Acar,CENG403,30
+1193,Mehmet Kavacik,CENG405,60
+1193,Berat Yildizer,CENG407,45
+1193,Duygu Yildirim,CENG408,75
+1194,KutluhanAkarcesme,CENG400,140
+1194,Mustafa?eybek,CENG401,80
+1194,Sems Acar,CENG403,30
+1194,Mehmet Kavacik,CENG405,60
+1194,Berat Yildizer,CENG407,45
+1194,Duygu Yildirim,CENG408,75
+1195,KutluhanAkarcesme,CENG400,140
+1195,Mustafa?eybek,CENG401,80
+1195,Sems Acar,CENG403,30
+1195,Mehmet Kavacik,CENG405,60
+1195,Berat Yildizer,CENG407,45
+1195,Duygu Yildirim,CENG408,75
+1196,KutluhanAkarcesme,CENG400,140
+1196,Mustafa?eybek,CENG401,80
+1196,Sems Acar,CENG403,30
+1196,Mehmet Kavacik,CENG405,60
+1196,Berat Yildizer,CENG407,45
+1196,Duygu Yildirim,CENG408,75
+1197,KutluhanAkarcesme,CENG400,140
+1197,Mustafa?eybek,CENG401,80
+1197,Sems Acar,CENG403,30
+1197,Mehmet Kavacik,CENG405,60
+1197,Berat Yildizer,CENG407,45
+1197,Duygu Yildirim,CENG408,75
+1198,KutluhanAkarcesme,CENG400,140
+1198,Mustafa?eybek,CENG401,80
+1198,Sems Acar,CENG403,30
+1198,Mehmet Kavacik,CENG405,60
+1198,Berat Yildizer,CENG407,45
+1198,Duygu Yildirim,CENG408,75
+1199,KutluhanAkarcesme,CENG400,140
+1199,Mustafa?eybek,CENG401,80
+1199,Sems Acar,CENG403,30
+1199,Mehmet Kavacik,CENG405,60
+1199,Berat Yildizer,CENG407,45
+1199,Duygu Yildirim,CENG408,75
+1200,KutluhanAkarcesme,CENG400,140
+1200,Mustafa?eybek,CENG401,80
+1200,Sems Acar,CENG403,30
+1200,Mehmet Kavacik,CENG405,60
+1200,Berat Yildizer,CENG407,45
+1200,Duygu Yildirim,CENG408,75
+1201,KutluhanAkarcesme,CENG400,140
+1201,Mustafa?eybek,CENG401,80
+1201,Sems Acar,CENG403,30
+1201,Mehmet Kavacik,CENG405,60
+1201,Berat Yildizer,CENG407,45
+1201,Duygu Yildirim,CENG408,75
+1202,KutluhanAkarcesme,CENG400,140
+1202,Mustafa?eybek,CENG401,80
+1202,Sems Acar,CENG403,30
+1202,Mehmet Kavacik,CENG405,60
+1202,Berat Yildizer,CENG407,45
+1202,Duygu Yildirim,CENG408,75
+1203,KutluhanAkarcesme,CENG400,140
+1203,Mustafa?eybek,CENG401,80
+1203,Sems Acar,CENG403,30
+1203,Mehmet Kavacik,CENG405,60
+1203,Berat Yildizer,CENG407,45
+1203,Duygu Yildirim,CENG408,75
+1204,KutluhanAkarcesme,CENG400,140
+1204,Mustafa?eybek,CENG401,80
+1204,Sems Acar,CENG403,30
+1204,Mehmet Kavacik,CENG405,60
+1204,Berat Yildizer,CENG407,45
+1204,Duygu Yildirim,CENG408,75
+1205,KutluhanAkarcesme,CENG400,140
+1205,Mustafa?eybek,CENG401,80
+1205,Sems Acar,CENG403,30
+1205,Mehmet Kavacik,CENG405,60
+1205,Berat Yildizer,CENG407,45
+1205,Duygu Yildirim,CENG408,75
+1206,KutluhanAkarcesme,CENG400,140
+1206,Mustafa?eybek,CENG401,80
+1206,Sems Acar,CENG403,30
+1206,Mehmet Kavacik,CENG405,60
+1206,Berat Yildizer,CENG407,45
+1206,Duygu Yildirim,CENG408,75
+1207,KutluhanAkarcesme,CENG400,140
+1207,Mustafa?eybek,CENG401,80
+1207,Sems Acar,CENG403,30
+1207,Mehmet Kavacik,CENG405,60
+1207,Berat Yildizer,CENG407,45
+1207,Duygu Yildirim,CENG408,75
+1208,KutluhanAkarcesme,CENG400,140
+1208,Mustafa?eybek,CENG401,80
+1208,Sems Acar,CENG403,30
+1208,Mehmet Kavacik,CENG405,60
+1208,Berat Yildizer,CENG407,45
+1208,Duygu Yildirim,CENG408,75
+1209,KutluhanAkarcesme,CENG400,140
+1209,Mustafa?eybek,CENG401,80
+1209,Sems Acar,CENG403,30
+1209,Mehmet Kavacik,CENG405,60
+1209,Berat Yildizer,CENG407,45
+1209,Duygu Yildirim,CENG408,75
+1210,KutluhanAkarcesme,CENG400,140
+1210,Mustafa?eybek,CENG401,80
+1210,Sems Acar,CENG403,30
+1210,Mehmet Kavacik,CENG405,60
+1210,Berat Yildizer,CENG407,45
+1210,Duygu Yildirim,CENG408,75
+1211,KutluhanAkarcesme,CENG400,140
+1211,Mustafa?eybek,CENG401,80
+1211,Sems Acar,CENG403,30
+1211,Mehmet Kavacik,CENG405,60
+1211,Berat Yildizer,CENG407,45
+1211,Duygu Yildirim,CENG408,75
+1212,KutluhanAkarcesme,CENG400,140
+1212,Mustafa?eybek,CENG401,80
+1212,Sems Acar,CENG403,30
+1212,Mehmet Kavacik,CENG405,60
+1212,Berat Yildizer,CENG407,45
+1212,Duygu Yildirim,CENG408,75
+1213,KutluhanAkarcesme,CENG400,140
+1213,Mustafa?eybek,CENG401,80
+1213,Sems Acar,CENG403,30
+1213,Mehmet Kavacik,CENG405,60
+1213,Berat Yildizer,CENG407,45
+1213,Duygu Yildirim,CENG408,75
+1214,KutluhanAkarcesme,CENG400,140
+1214,Mustafa?eybek,CENG401,80
+1214,Sems Acar,CENG403,30
+1214,Mehmet Kavacik,CENG405,60
+1214,Berat Yildizer,CENG407,45
+1214,Duygu Yildirim,CENG408,75
+1215,KutluhanAkarcesme,CENG400,140
+1215,Mustafa?eybek,CENG401,80
+1215,Sems Acar,CENG403,30
+1215,Mehmet Kavacik,CENG405,60
+1215,Berat Yildizer,CENG407,45
+1215,Duygu Yildirim,CENG408,75
+1216,KutluhanAkarcesme,CENG400,140
+1216,Mustafa?eybek,CENG401,80
+1216,Sems Acar,CENG403,30
+1216,Mehmet Kavacik,CENG405,60
+1216,Berat Yildizer,CENG407,45
+1216,Duygu Yildirim,CENG408,75
+1217,KutluhanAkarcesme,CENG400,140
+1217,Mustafa?eybek,CENG401,80
+1217,Sems Acar,CENG403,30
+1217,Mehmet Kavacik,CENG405,60
+1217,Berat Yildizer,CENG407,45
+1217,Duygu Yildirim,CENG408,75
+1218,KutluhanAkarcesme,CENG400,140
+1218,Mustafa?eybek,CENG401,80
+1218,Sems Acar,CENG403,30
+1218,Mehmet Kavacik,CENG405,60
+1218,Berat Yildizer,CENG407,45
+1218,Duygu Yildirim,CENG408,75
+1219,KutluhanAkarcesme,CENG400,140
+1219,Mustafa?eybek,CENG401,80
+1219,Sems Acar,CENG403,30
+1219,Mehmet Kavacik,CENG405,60
+1219,Berat Yildizer,CENG407,45
+1219,Duygu Yildirim,CENG408,75
+1220,KutluhanAkarcesme,CENG400,140
+1220,Mustafa?eybek,CENG401,80
+1220,Sems Acar,CENG403,30
+1220,Mehmet Kavacik,CENG405,60
+1220,Berat Yildizer,CENG407,45
+1220,Duygu Yildirim,CENG408,75
+1221,KutluhanAkarcesme,CENG400,140
+1221,Mustafa?eybek,CENG401,80
+1221,Sems Acar,CENG403,30
+1221,Mehmet Kavacik,CENG405,60
+1221,Berat Yildizer,CENG407,45
+1221,Duygu Yildirim,CENG408,75
+1222,KutluhanAkarcesme,CENG400,140
+1222,Mustafa?eybek,CENG401,80
+1222,Sems Acar,CENG403,30
+1222,Mehmet Kavacik,CENG405,60
+1222,Berat Yildizer,CENG407,45
+1222,Duygu Yildirim,CENG408,75
+1223,KutluhanAkarcesme,CENG400,140
+1223,Mustafa?eybek,CENG401,80
+1223,Sems Acar,CENG403,30
+1223,Mehmet Kavacik,CENG405,60
+1223,Berat Yildizer,CENG407,45
+1223,Duygu Yildirim,CENG408,75
+1224,KutluhanAkarcesme,CENG400,140
+1224,Mustafa?eybek,CENG401,80
+1224,Sems Acar,CENG403,30
+1224,Mehmet Kavacik,CENG405,60
+1224,Berat Yildizer,CENG407,45
+1224,Duygu Yildirim,CENG408,75
+1225,KutluhanAkarcesme,CENG400,140
+1225,Mustafa?eybek,CENG401,80
+1225,Sems Acar,CENG403,30
+1225,Mehmet Kavacik,CENG405,60
+1225,Berat Yildizer,CENG407,45
+1225,Duygu Yildirim,CENG408,75
+1226,KutluhanAkarcesme,CENG400,140
+1226,Mustafa?eybek,CENG401,80
+1226,Sems Acar,CENG403,30
+1226,Mehmet Kavacik,CENG405,60
+1226,Berat Yildizer,CENG407,45
+1226,Duygu Yildirim,CENG408,75
+1227,KutluhanAkarcesme,CENG400,140
+1227,Mustafa?eybek,CENG401,80
+1227,Sems Acar,CENG403,30
+1227,Mehmet Kavacik,CENG405,60
+1227,Berat Yildizer,CENG407,45
+1227,Duygu Yildirim,CENG408,75
+1228,KutluhanAkarcesme,CENG400,140
+1228,Mustafa?eybek,CENG401,80
+1228,Sems Acar,CENG403,30
+1228,Mehmet Kavacik,CENG405,60
+1228,Berat Yildizer,CENG407,45
+1228,Duygu Yildirim,CENG408,75
+1229,KutluhanAkarcesme,CENG400,140
+1229,Mustafa?eybek,CENG401,80
+1229,Sems Acar,CENG403,30
+1229,Mehmet Kavacik,CENG405,60
+1229,Berat Yildizer,CENG407,45
+1229,Duygu Yildirim,CENG408,75
+1230,KutluhanAkarcesme,CENG400,140
+1230,Mustafa?eybek,CENG401,80
+1230,Sems Acar,CENG403,30
+1230,Mehmet Kavacik,CENG405,60
+1230,Berat Yildizer,CENG407,45
+1230,Duygu Yildirim,CENG408,75
+1231,KutluhanAkarcesme,CENG400,140
+1231,Mustafa?eybek,CENG401,80
+1231,Sems Acar,CENG403,30
+1231,Mehmet Kavacik,CENG405,60
+1231,Berat Yildizer,CENG407,45
+1231,Duygu Yildirim,CENG408,75
+1232,KutluhanAkarcesme,CENG400,140
+1232,Mustafa?eybek,CENG401,80
+1232,Sems Acar,CENG403,30
+1232,Mehmet Kavacik,CENG405,60
+1232,Berat Yildizer,CENG407,45
+1232,Duygu Yildirim,CENG408,75
+1233,KutluhanAkarcesme,CENG400,140
+1233,Mustafa?eybek,CENG401,80
+1233,Sems Acar,CENG403,30
+1233,Mehmet Kavacik,CENG405,60
+1233,Berat Yildizer,CENG407,45
+1233,Duygu Yildirim,CENG408,75
+1234,KutluhanAkarcesme,CENG400,140
+1234,Mustafa?eybek,CENG401,80
+1234,Sems Acar,CENG403,30
+1234,Mehmet Kavacik,CENG405,60
+1234,Berat Yildizer,CENG407,45
+1234,Duygu Yildirim,CENG408,75
+1235,KutluhanAkarcesme,CENG400,140
+1235,Mustafa?eybek,CENG401,80
+1235,Sems Acar,CENG403,30
+1235,Mehmet Kavacik,CENG405,60
+1235,Berat Yildizer,CENG407,45
+1235,Duygu Yildirim,CENG408,75
+1236,KutluhanAkarcesme,CENG400,140
+1236,Mustafa?eybek,CENG401,80
+1236,Sems Acar,CENG403,30
+1236,Mehmet Kavacik,CENG405,60
+1236,Berat Yildizer,CENG407,45
+1236,Duygu Yildirim,CENG408,75
+1237,KutluhanAkarcesme,CENG400,140
+1237,Mustafa?eybek,CENG401,80
+1237,Sems Acar,CENG403,30
+1237,Mehmet Kavacik,CENG405,60
+1237,Berat Yildizer,CENG407,45
+1237,Duygu Yildirim,CENG408,75
+1238,KutluhanAkarcesme,CENG400,140
+1238,Mustafa?eybek,CENG401,80
+1238,Sems Acar,CENG403,30
+1238,Mehmet Kavacik,CENG405,60
+1238,Berat Yildizer,CENG407,45
+1238,Duygu Yildirim,CENG408,75
+1239,KutluhanAkarcesme,CENG400,140
+1239,Mustafa?eybek,CENG401,80
+1239,Sems Acar,CENG403,30
+1239,Mehmet Kavacik,CENG405,60
+1239,Berat Yildizer,CENG407,45
+1239,Duygu Yildirim,CENG408,75
+1240,KutluhanAkarcesme,CENG400,140
+1240,Mustafa?eybek,CENG401,80
+1240,Sems Acar,CENG403,30
+1240,Mehmet Kavacik,CENG405,60
+1240,Berat Yildizer,CENG407,45
+1240,Duygu Yildirim,CENG408,75
+1241,KutluhanAkarcesme,CENG400,140
+1241,Mustafa?eybek,CENG401,80
+1241,Sems Acar,CENG403,30
+1241,Mehmet Kavacik,CENG405,60
+1241,Berat Yildizer,CENG407,45
+1241,Duygu Yildirim,CENG408,75
+1242,KutluhanAkarcesme,CENG400,140
+1242,Mustafa?eybek,CENG401,80
+1242,Sems Acar,CENG403,30
+1242,Mehmet Kavacik,CENG405,60
+1242,Berat Yildizer,CENG407,45
+1242,Duygu Yildirim,CENG408,75
+1243,KutluhanAkarcesme,CENG400,140
+1243,Mustafa?eybek,CENG401,80
+1243,Sems Acar,CENG403,30
+1243,Mehmet Kavacik,CENG405,60
+1243,Berat Yildizer,CENG407,45
+1243,Duygu Yildirim,CENG408,75
+1244,KutluhanAkarcesme,CENG400,140
+1244,Mustafa?eybek,CENG401,80
+1244,Sems Acar,CENG403,30
+1244,Mehmet Kavacik,CENG405,60
+1244,Berat Yildizer,CENG407,45
+1244,Duygu Yildirim,CENG408,75
+1245,KutluhanAkarcesme,CENG400,140
+1245,Mustafa?eybek,CENG401,80
+1245,Sems Acar,CENG403,30
+1245,Mehmet Kavacik,CENG405,60
+1245,Berat Yildizer,CENG407,45
+1245,Duygu Yildirim,CENG408,75
+1246,KutluhanAkarcesme,CENG400,140
+1246,Mustafa?eybek,CENG401,80
+1246,Sems Acar,CENG403,30
+1246,Mehmet Kavacik,CENG405,60
+1246,Berat Yildizer,CENG407,45
+1246,Duygu Yildirim,CENG408,75
+1247,KutluhanAkarcesme,CENG400,140
+1247,Mustafa?eybek,CENG401,80
+1247,Sems Acar,CENG403,30
+1247,Mehmet Kavacik,CENG405,60
+1247,Berat Yildizer,CENG407,45
+1247,Duygu Yildirim,CENG408,75
+1248,KutluhanAkarcesme,CENG400,140
+1248,Mustafa?eybek,CENG401,80
+1248,Sems Acar,CENG403,30
+1248,Mehmet Kavacik,CENG405,60
+1248,Berat Yildizer,CENG407,45
+1248,Duygu Yildirim,CENG408,75
+1249,KutluhanAkarcesme,CENG400,140
+1249,Mustafa?eybek,CENG401,80
+1249,Sems Acar,CENG403,30
+1249,Mehmet Kavacik,CENG405,60
+1249,Berat Yildizer,CENG407,45
+1249,Duygu Yildirim,CENG408,75
+1250,KutluhanAkarcesme,CENG400,140
+1250,Mustafa?eybek,CENG401,80
+1250,Sems Acar,CENG403,30
+1250,Mehmet Kavacik,CENG405,60
+1250,Berat Yildizer,CENG407,45
+1250,Duygu Yildirim,CENG408,75
+1251,KutluhanAkarcesme,CENG400,140
+1251,Mustafa?eybek,CENG401,80
+1251,Sems Acar,CENG403,30
+1251,Mehmet Kavacik,CENG405,60
+1251,Berat Yildizer,CENG407,45
+1251,Duygu Yildirim,CENG408,75
+1252,KutluhanAkarcesme,CENG400,140
+1252,Mustafa?eybek,CENG401,80
+1252,Sems Acar,CENG403,30
+1252,Mehmet Kavacik,CENG405,60
+1252,Berat Yildizer,CENG407,45
+1252,Duygu Yildirim,CENG408,75
+1253,KutluhanAkarcesme,CENG400,140
+1253,Mustafa?eybek,CENG401,80
+1253,Sems Acar,CENG403,30
+1253,Mehmet Kavacik,CENG405,60
+1253,Berat Yildizer,CENG407,45
+1253,Duygu Yildirim,CENG408,75
+1254,KutluhanAkarcesme,CENG400,140
+1254,Mustafa?eybek,CENG401,80
+1254,Sems Acar,CENG403,30
+1254,Mehmet Kavacik,CENG405,60
+1254,Berat Yildizer,CENG407,45
+1254,Duygu Yildirim,CENG408,75
+1255,KutluhanAkarcesme,CENG400,140
+1255,Mustafa?eybek,CENG401,80
+1255,Sems Acar,CENG403,30
+1255,Mehmet Kavacik,CENG405,60
+1255,Berat Yildizer,CENG407,45
+1255,Duygu Yildirim,CENG408,75
+1256,KutluhanAkarcesme,CENG400,140
+1256,Mustafa?eybek,CENG401,80
+1256,Sems Acar,CENG403,30
+1256,Mehmet Kavacik,CENG405,60
+1256,Berat Yildizer,CENG407,45
+1256,Duygu Yildirim,CENG408,75
+1257,KutluhanAkarcesme,CENG400,140
+1257,Mustafa?eybek,CENG401,80
+1257,Sems Acar,CENG403,30
+1257,Mehmet Kavacik,CENG405,60
+1257,Berat Yildizer,CENG407,45
+1257,Duygu Yildirim,CENG408,75
+1258,KutluhanAkarcesme,CENG400,140
+1258,Mustafa?eybek,CENG401,80
+1258,Sems Acar,CENG403,30
+1258,Mehmet Kavacik,CENG405,60
+1258,Berat Yildizer,CENG407,45
+1258,Duygu Yildirim,CENG408,75
+1259,KutluhanAkarcesme,CENG400,140
+1259,Mustafa?eybek,CENG401,80
+1259,Sems Acar,CENG403,30
+1259,Mehmet Kavacik,CENG405,60
+1259,Berat Yildizer,CENG407,45
+1259,Duygu Yildirim,CENG408,75
+1260,KutluhanAkarcesme,CENG400,140
+1260,Mustafa?eybek,CENG401,80
+1260,Sems Acar,CENG403,30
+1260,Mehmet Kavacik,CENG405,60
+1260,Berat Yildizer,CENG407,45
+1260,Duygu Yildirim,CENG408,75
+1261,KutluhanAkarcesme,CENG400,140
+1261,Mustafa?eybek,CENG401,80
+1261,Sems Acar,CENG403,30
+1261,Mehmet Kavacik,CENG405,60
+1261,Berat Yildizer,CENG407,45
+1261,Duygu Yildirim,CENG408,75
+1262,KutluhanAkarcesme,CENG400,140
+1262,Mustafa?eybek,CENG401,80
+1262,Sems Acar,CENG403,30
+1262,Mehmet Kavacik,CENG405,60
+1262,Berat Yildizer,CENG407,45
+1262,Duygu Yildirim,CENG408,75
+1263,KutluhanAkarcesme,CENG400,140
+1263,Mustafa?eybek,CENG401,80
+1263,Sems Acar,CENG403,30
+1263,Mehmet Kavacik,CENG405,60
+1263,Berat Yildizer,CENG407,45
+1263,Duygu Yildirim,CENG408,75
+1264,KutluhanAkarcesme,CENG400,140
+1264,Mustafa?eybek,CENG401,80
+1264,Sems Acar,CENG403,30
+1264,Mehmet Kavacik,CENG405,60
+1264,Berat Yildizer,CENG407,45
+1264,Duygu Yildirim,CENG408,75
+1265,KutluhanAkarcesme,CENG400,140
+1265,Mustafa?eybek,CENG401,80
+1265,Sems Acar,CENG403,30
+1265,Mehmet Kavacik,CENG405,60
+1265,Berat Yildizer,CENG407,45
+1265,Duygu Yildirim,CENG408,75
+1266,KutluhanAkarcesme,CENG400,140
+1266,Mustafa?eybek,CENG401,80
+1266,Sems Acar,CENG403,30
+1266,Mehmet Kavacik,CENG405,60
+1266,Berat Yildizer,CENG407,45
+1266,Duygu Yildirim,CENG408,75
+1267,KutluhanAkarcesme,CENG400,140
+1267,Mustafa?eybek,CENG401,80
+1267,Sems Acar,CENG403,30
+1267,Mehmet Kavacik,CENG405,60
+1267,Berat Yildizer,CENG407,45
+1267,Duygu Yildirim,CENG408,75
+1268,KutluhanAkarcesme,CENG400,140
+1268,Mustafa?eybek,CENG401,80
+1268,Sems Acar,CENG403,30
+1268,Mehmet Kavacik,CENG405,60
+1268,Berat Yildizer,CENG407,45
+1268,Duygu Yildirim,CENG408,75
+1269,KutluhanAkarcesme,CENG400,140
+1269,Mustafa?eybek,CENG401,80
+1269,Sems Acar,CENG403,30
+1269,Mehmet Kavacik,CENG405,60
+1269,Berat Yildizer,CENG407,45
+1269,Duygu Yildirim,CENG408,75
+1270,KutluhanAkarcesme,CENG400,140
+1270,Mustafa?eybek,CENG401,80
+1270,Sems Acar,CENG403,30
+1270,Mehmet Kavacik,CENG405,60
+1270,Berat Yildizer,CENG407,45
+1270,Duygu Yildirim,CENG408,75
+1271,KutluhanAkarcesme,CENG400,140
+1271,Mustafa?eybek,CENG401,80
+1271,Sems Acar,CENG403,30
+1271,Mehmet Kavacik,CENG405,60
+1271,Berat Yildizer,CENG407,45
+1271,Duygu Yildirim,CENG408,75
+1272,KutluhanAkarcesme,CENG400,140
+1272,Mustafa?eybek,CENG401,80
+1272,Sems Acar,CENG403,30
+1272,Mehmet Kavacik,CENG405,60
+1272,Berat Yildizer,CENG407,45
+1272,Duygu Yildirim,CENG408,75
+1273,KutluhanAkarcesme,CENG400,140
+1273,Mustafa?eybek,CENG401,80
+1273,Sems Acar,CENG403,30
+1273,Mehmet Kavacik,CENG405,60
+1273,Berat Yildizer,CENG407,45
+1273,Duygu Yildirim,CENG408,75
+1274,KutluhanAkarcesme,CENG400,140
+1274,Mustafa?eybek,CENG401,80
+1274,Sems Acar,CENG403,30
+1274,Mehmet Kavacik,CENG405,60
+1274,Berat Yildizer,CENG407,45
+1274,Duygu Yildirim,CENG408,75
+1275,KutluhanAkarcesme,CENG400,140
+1275,Mustafa?eybek,CENG401,80
+1275,Sems Acar,CENG403,30
+1275,Mehmet Kavacik,CENG405,60
+1275,Berat Yildizer,CENG407,45
+1275,Duygu Yildirim,CENG408,75
+1276,KutluhanAkarcesme,CENG400,140
+1276,Mustafa?eybek,CENG401,80
+1276,Sems Acar,CENG403,30
+1276,Mehmet Kavacik,CENG405,60
+1276,Berat Yildizer,CENG407,45
+1276,Duygu Yildirim,CENG408,75
+1277,KutluhanAkarcesme,CENG400,140
+1277,Mustafa?eybek,CENG401,80
+1277,Sems Acar,CENG403,30
+1277,Mehmet Kavacik,CENG405,60
+1277,Berat Yildizer,CENG407,45
+1277,Duygu Yildirim,CENG408,75
+1278,KutluhanAkarcesme,CENG400,140
+1278,Mustafa?eybek,CENG401,80
+1278,Sems Acar,CENG403,30
+1278,Mehmet Kavacik,CENG405,60
+1278,Berat Yildizer,CENG407,45
+1278,Duygu Yildirim,CENG408,75
+1279,KutluhanAkarcesme,CENG400,140
+1279,Mustafa?eybek,CENG401,80
+1279,Sems Acar,CENG403,30
+1279,Mehmet Kavacik,CENG405,60
+1279,Berat Yildizer,CENG407,45
+1279,Duygu Yildirim,CENG408,75
+1280,KutluhanAkarcesme,CENG400,140
+1280,Mustafa?eybek,CENG401,80
+1280,Sems Acar,CENG403,30
+1280,Mehmet Kavacik,CENG405,60
+1280,Berat Yildizer,CENG407,45
+1280,Duygu Yildirim,CENG408,75
+1281,KutluhanAkarcesme,CENG400,140
+1281,Mustafa?eybek,CENG401,80
+1281,Sems Acar,CENG403,30
+1281,Mehmet Kavacik,CENG405,60
+1281,Berat Yildizer,CENG407,45
+1281,Duygu Yildirim,CENG408,75
+1282,KutluhanAkarcesme,CENG400,140
+1282,Mustafa?eybek,CENG401,80
+1282,Sems Acar,CENG403,30
+1282,Mehmet Kavacik,CENG405,60
+1282,Berat Yildizer,CENG407,45
+1282,Duygu Yildirim,CENG408,75
+1283,KutluhanAkarcesme,CENG400,140
+1283,Mustafa?eybek,CENG401,80
+1283,Sems Acar,CENG403,30
+1283,Mehmet Kavacik,CENG405,60
+1283,Berat Yildizer,CENG407,45
+1283,Duygu Yildirim,CENG408,75
+1284,KutluhanAkarcesme,CENG400,140
+1284,Mustafa?eybek,CENG401,80
+1284,Sems Acar,CENG403,30
+1284,Mehmet Kavacik,CENG405,60
+1284,Berat Yildizer,CENG407,45
+1284,Duygu Yildirim,CENG408,75
+1285,KutluhanAkarcesme,CENG400,140
+1285,Mustafa?eybek,CENG401,80
+1285,Sems Acar,CENG403,30
+1285,Mehmet Kavacik,CENG405,60
+1285,Berat Yildizer,CENG407,45
+1285,Duygu Yildirim,CENG408,75
+1286,KutluhanAkarcesme,CENG400,140
+1286,Mustafa?eybek,CENG401,80
+1286,Sems Acar,CENG403,30
+1286,Mehmet Kavacik,CENG405,60
+1286,Berat Yildizer,CENG407,45
+1286,Duygu Yildirim,CENG408,75
+1287,KutluhanAkarcesme,CENG400,140
+1287,Mustafa?eybek,CENG401,80
+1287,Sems Acar,CENG403,30
+1287,Mehmet Kavacik,CENG405,60
+1287,Berat Yildizer,CENG407,45
+1287,Duygu Yildirim,CENG408,75
+1288,KutluhanAkarcesme,CENG400,140
+1288,Mustafa?eybek,CENG401,80
+1288,Sems Acar,CENG403,30
+1288,Mehmet Kavacik,CENG405,60
+1288,Berat Yildizer,CENG407,45
+1288,Duygu Yildirim,CENG408,75
+1289,KutluhanAkarcesme,CENG400,140
+1289,Mustafa?eybek,CENG401,80
+1289,Sems Acar,CENG403,30
+1289,Mehmet Kavacik,CENG405,60
+1289,Berat Yildizer,CENG407,45
+1289,Duygu Yildirim,CENG408,75
+1290,KutluhanAkarcesme,CENG400,140
+1290,Mustafa?eybek,CENG401,80
+1290,Sems Acar,CENG403,30
+1290,Mehmet Kavacik,CENG405,60
+1290,Berat Yildizer,CENG407,45
+1290,Duygu Yildirim,CENG408,75
+1291,KutluhanAkarcesme,CENG400,140
+1291,Mustafa?eybek,CENG401,80
+1291,Sems Acar,CENG403,30
+1291,Mehmet Kavacik,CENG405,60
+1291,Berat Yildizer,CENG407,45
+1291,Duygu Yildirim,CENG408,75
+1292,KutluhanAkarcesme,CENG400,140
+1292,Mustafa?eybek,CENG401,80
+1292,Sems Acar,CENG403,30
+1292,Mehmet Kavacik,CENG405,60
+1292,Berat Yildizer,CENG407,45
+1292,Duygu Yildirim,CENG408,75
+1293,KutluhanAkarcesme,CENG400,140
+1293,Mustafa?eybek,CENG401,80
+1293,Sems Acar,CENG403,30
+1293,Mehmet Kavacik,CENG405,60
+1293,Berat Yildizer,CENG407,45
+1293,Duygu Yildirim,CENG408,75
+1294,KutluhanAkarcesme,CENG400,140
+1294,Mustafa?eybek,CENG401,80
+1294,Sems Acar,CENG403,30
+1294,Mehmet Kavacik,CENG405,60
+1294,Berat Yildizer,CENG407,45
+1294,Duygu Yildirim,CENG408,75
+1295,KutluhanAkarcesme,CENG400,140
+1295,Mustafa?eybek,CENG401,80
+1295,Sems Acar,CENG403,30
+1295,Mehmet Kavacik,CENG405,60
+1295,Berat Yildizer,CENG407,45
+1295,Duygu Yildirim,CENG408,75
+1296,KutluhanAkarcesme,CENG400,140
+1296,Mustafa?eybek,CENG401,80
+1296,Sems Acar,CENG403,30
+1296,Mehmet Kavacik,CENG405,60
+1296,Berat Yildizer,CENG407,45
+1296,Duygu Yildirim,CENG408,75
+1297,KutluhanAkarcesme,CENG400,140
+1297,Mustafa?eybek,CENG401,80
+1297,Sems Acar,CENG403,30
+1297,Mehmet Kavacik,CENG405,60
+1297,Berat Yildizer,CENG407,45
+1297,Duygu Yildirim,CENG408,75
+1298,KutluhanAkarcesme,CENG400,140
+1298,Mustafa?eybek,CENG401,80
+1298,Sems Acar,CENG403,30
+1298,Mehmet Kavacik,CENG405,60
+1298,Berat Yildizer,CENG407,45
+1298,Duygu Yildirim,CENG408,75
+1299,KutluhanAkarcesme,CENG400,140
+1299,Mustafa?eybek,CENG401,80
+1299,Sems Acar,CENG403,30
+1299,Mehmet Kavacik,CENG405,60
+1299,Berat Yildizer,CENG407,45
+1299,Duygu Yildirim,CENG408,75
+1300,KutluhanAkarcesme,CENG400,140
+1300,Mustafa?eybek,CENG401,80
+1300,Sems Acar,CENG403,30
+1300,Mehmet Kavacik,CENG405,60
+1300,Berat Yildizer,CENG407,45
+1300,Duygu Yildirim,CENG408,75
+1301,KutluhanAkarcesme,CENG400,140
+1301,Mustafa?eybek,CENG401,80
+1301,Sems Acar,CENG403,30
+1301,Mehmet Kavacik,CENG405,60
+1301,Berat Yildizer,CENG407,45
+1301,Duygu Yildirim,CENG408,75
+1302,KutluhanAkarcesme,CENG400,140
+1302,Mustafa?eybek,CENG401,80
+1302,Sems Acar,CENG403,30
+1302,Mehmet Kavacik,CENG405,60
+1302,Berat Yildizer,CENG407,45
+1302,Duygu Yildirim,CENG408,75
+1303,KutluhanAkarcesme,CENG400,140
+1303,Mustafa?eybek,CENG401,80
+1303,Sems Acar,CENG403,30
+1303,Mehmet Kavacik,CENG405,60
+1303,Berat Yildizer,CENG407,45
+1303,Duygu Yildirim,CENG408,75
+1304,KutluhanAkarcesme,CENG400,140
+1304,Mustafa?eybek,CENG401,80
+1304,Sems Acar,CENG403,30
+1304,Mehmet Kavacik,CENG405,60
+1304,Berat Yildizer,CENG407,45
+1304,Duygu Yildirim,CENG408,75
+1305,KutluhanAkarcesme,CENG400,140
+1305,Mustafa?eybek,CENG401,80
+1305,Sems Acar,CENG403,30
+1305,Mehmet Kavacik,CENG405,60
+1305,Berat Yildizer,CENG407,45
+1305,Duygu Yildirim,CENG408,75
+1306,KutluhanAkarcesme,CENG400,140
+1306,Mustafa?eybek,CENG401,80
+1306,Sems Acar,CENG403,30
+1306,Mehmet Kavacik,CENG405,60
+1306,Berat Yildizer,CENG407,45
+1306,Duygu Yildirim,CENG408,75
+1307,KutluhanAkarcesme,CENG400,140
+1307,Mustafa?eybek,CENG401,80
+1307,Sems Acar,CENG403,30
+1307,Mehmet Kavacik,CENG405,60
+1307,Berat Yildizer,CENG407,45
+1307,Duygu Yildirim,CENG408,75
+1308,KutluhanAkarcesme,CENG400,140
+1308,Mustafa?eybek,CENG401,80
+1308,Sems Acar,CENG403,30
+1308,Mehmet Kavacik,CENG405,60
+1308,Berat Yildizer,CENG407,45
+1308,Duygu Yildirim,CENG408,75
+1309,KutluhanAkarcesme,CENG400,140
+1309,Mustafa?eybek,CENG401,80
+1309,Sems Acar,CENG403,30
+1309,Mehmet Kavacik,CENG405,60
+1309,Berat Yildizer,CENG407,45
+1309,Duygu Yildirim,CENG408,75
+1310,KutluhanAkarcesme,CENG400,140
+1310,Mustafa?eybek,CENG401,80
+1310,Sems Acar,CENG403,30
+1310,Mehmet Kavacik,CENG405,60
+1310,Berat Yildizer,CENG407,45
+1310,Duygu Yildirim,CENG408,75
+1311,KutluhanAkarcesme,CENG400,140
+1311,Mustafa?eybek,CENG401,80
+1311,Sems Acar,CENG403,30
+1311,Mehmet Kavacik,CENG405,60
+1311,Berat Yildizer,CENG407,45
+1311,Duygu Yildirim,CENG408,75
+1312,KutluhanAkarcesme,CENG400,140
+1312,Mustafa?eybek,CENG401,80
+1312,Sems Acar,CENG403,30
+1312,Mehmet Kavacik,CENG405,60
+1312,Berat Yildizer,CENG407,45
+1312,Duygu Yildirim,CENG408,75
+1313,KutluhanAkarcesme,CENG400,140
+1313,Mustafa?eybek,CENG401,80
+1313,Sems Acar,CENG403,30
+1313,Mehmet Kavacik,CENG405,60
+1313,Berat Yildizer,CENG407,45
+1313,Duygu Yildirim,CENG408,75
+1314,KutluhanAkarcesme,CENG400,140
+1314,Mustafa?eybek,CENG401,80
+1314,Sems Acar,CENG403,30
+1314,Mehmet Kavacik,CENG405,60
+1314,Berat Yildizer,CENG407,45
+1314,Duygu Yildirim,CENG408,75
+1315,KutluhanAkarcesme,CENG400,140
+1315,Mustafa?eybek,CENG401,80
+1315,Sems Acar,CENG403,30
+1315,Mehmet Kavacik,CENG405,60
+1315,Berat Yildizer,CENG407,45
+1315,Duygu Yildirim,CENG408,75
+1316,KutluhanAkarcesme,CENG400,140
+1316,Mustafa?eybek,CENG401,80
+1316,Sems Acar,CENG403,30
+1316,Mehmet Kavacik,CENG405,60
+1316,Berat Yildizer,CENG407,45
+1316,Duygu Yildirim,CENG408,75
