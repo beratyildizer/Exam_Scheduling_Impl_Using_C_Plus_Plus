@@ -1,4 +1,4 @@
-Any compiler supporting at least C++ 20 can be used. I give main code in termProject.cpp and you can use it just customizing input csv files. 
+You can use makefile directly or any compiler supporting at least C++ 20 can be used. I give main code in termProject.cpp and you can use it just customizing input csv files. 
 Please locate csv files at the same location with the project. If our code cannot find input files, it will not work properly. 
 You just need to change input files to test our program without customizing header columns. I performed many tests and tried many input sets . 
 Also, after compiling and running our code, you can check console screen to be sure that exam scheduling is generated or not. If generated, go to exam_schedule_program.csv to see examination scheduling times.
